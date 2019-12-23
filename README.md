@@ -1,4 +1,5 @@
-# Awesome Frontend 💻
+<!-- # Awesome Frontend 💻 -->
+![](https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/cover.png?raw=true)
 
 > Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend.
 
