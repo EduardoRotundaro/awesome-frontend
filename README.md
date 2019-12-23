@@ -10,11 +10,13 @@
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Purge CSS](https://www.purgecss.com/)
 * [Pure CSS](https://purecss.io/start/)
+* [Post CSS](https://postcss.org/)
 * [960 Grid System](https://960.gs/)
 * [Tailwind](https://tailwindcss.com/)
 * [Lodash](https://lodash.com/docs/4.17.15)
 * [Moment.js](https://momentjs.com/)
 * [Shoe Lace](https://www.shoelace.style/)
+* [Pug](https://pugjs.org/api/getting-started.html)
 
 ### Ícones 👍🏻
 
@@ -44,6 +46,7 @@
 ### Fontes 🅰️
 
 * [Google Fonts](https://fonts.google.com/)
+* [Dafont](https://www.dafont.com/mtheme.php)
 
 ### Cores 🎨
 
@@ -82,6 +85,13 @@
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Free Formatter](https://www.freeformatter.com/)
 
+### Tutoriais ❓
+
+* [Flex Box Froggy](https://flexboxfroggy.com/)
+* [Internet Is Hard](https://internetingishard.com/)
+* [Flukeout](https://flukeout.github.io/)
+* [GRID By Example](https://gridbyexample.com/learn/)
+
 ### Artigos 📰
 
 * [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
@@ -90,14 +100,24 @@
 * [30 Useful CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Organizando o HTML](https://css-tricks.com/how-to-section-your-html/)
 * [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+* [Media Queries](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+* [7 Rules for Creating UI (pt.1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+* [7 Rules for Creating UI (pt.2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
+* [Code Geekz](https://codegeekz.com/)
 
 ### Sites de Artigos e tutoriais 💬
 
 * [CSS Tricks](https://css-tricks.com/)
 * [Site Point](https://www.sitepoint.com/blog/)
 * [Egg Head](https://egghead.io/)
+* [CSS Author](https://cssauthor.com/)
 
 ### Documentações 📔
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
+
+### Extensões ⬇️
+
+* [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
