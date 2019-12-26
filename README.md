@@ -23,6 +23,17 @@
 * [Andy.scss](http://gillesbertaux.com/andy/)
 * [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins)
 * [Breakpoint SASS](http://breakpoint-sass.com/)
+* [Base](https://getbase.org/)
+* [Bulma](https://bulma.io/)
+* [History](https://github.com/browserstate/history.js)
+* [Analyze CSS](https://github.com/macbre/analyze-css)
+* [Voca.js](https://vocajs.com/)
+* [Luxon](https://moment.github.io/luxon/)
+* [Math.js](https://mathjs.org/)
+* [Is.js](http://is.js.org/)
+* [Format.js](https://formatjs.io/)
+* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
+* [Pleeease](http://pleeease.io/)
 
 ### Ícones 👍🏻
 
@@ -30,10 +41,13 @@
 * [Octicons](https://octicons.github.com/)
 * [Feather](https://feathericons.com/)
 * [Material Design](https://material.io/resources/icons/?icon=account_circle&style=baseline)
+* [Google Material Icons](http://google.github.io/material-design-icons/)
 * [Icon Monster](https://iconmonstr.com/)
 * [The Noun Project](https://thenounproject.com/)
 * [FreePik](https://www.freepik.com/)
 * [Fontello](http://fontello.com/)
+* [Icons8](https://icons8.com/icons)
+* [Simple Icons](https://simpleicons.org/)
 
 ### Animações CSS 🏃
 
@@ -51,6 +65,13 @@
 
 * [Dribbble](https://dribbble.com/)
 * [Free Frontend](https://freefrontend.com/)
+* [Code My UI](https://codemyui.com/)
+* [Collect UI](http://collectui.com/)
+* [Inspiration UI](http://inspirationui.com/)
+* [Lapa Ninja](https://www.lapa.ninja/)
+* [Httpster](https://httpster.net/)
+* [Page Flows](https://pageflows.com/)
+* [One Page Love](https://onepagelove.com/inspiration)
 
 ### Fontes 🅰️
 
@@ -63,6 +84,7 @@
 * [UI Gradients](https://uigradients.com/#VerBlack)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Gradient Generator](https://www.ccbg.io/generator)
+* [Brand Colors](https://brandcolors.net/)
 
 ### Gerador de CSS ✏
 
@@ -71,6 +93,7 @@
 * [CSS Matic](https://www.cssmatic.com/)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Enjoy CSS](https://enjoycss.com/)
+* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
 
 ### Listas 📋
 
@@ -81,6 +104,10 @@
 
 * [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
 * [Material UI](https://material-ui.com/)
+* [Ant Design](https://github.com/ant-design/ant-design)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Semantic UI](https://react.semantic-ui.com/)
 
 ### Markdown 📝
 
@@ -97,6 +124,7 @@
 * [Learn Layout](http://learnlayout.com/)
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Free Formatter](https://www.freeformatter.com/)
+* [JS Tips](https://www.jstips.co/)
 
 ### Tutoriais ❓
 
@@ -104,6 +132,9 @@
 * [Internet Is Hard](https://internetingishard.com/)
 * [Flukeout](https://flukeout.github.io/)
 * [GRID By Example](https://gridbyexample.com/learn/)
+* [UI Patterns](http://ui-patterns.com/)
+* [JS Patterns](https://github.com/nnupoor/js_designpatterns)
+* [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
 ### Artigos 📰
 
@@ -118,6 +149,8 @@
 * [7 Rules for Creating UI (pt.1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * [7 Rules for Creating UI (pt.2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 * [Code Geekz](https://codegeekz.com/)
+* [MV* Design Patterns](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ### Sites de Artigos e tutoriais 💬
 
@@ -140,6 +173,7 @@
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
+* [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
 ### Extensões ⬇️
 
