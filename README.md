@@ -97,7 +97,7 @@
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
 
-## Gerador de CSS ✏
+## Gerador de CSS 👉🏻
 
 * [CSS3 Maker](https://www.css3maker.com/index.html)
 * [Grid Maker](https://grid.layoutit.com/)
@@ -164,8 +164,9 @@
 * [Code Geekz](https://codegeekz.com/)
 * [MV* Design Patterns](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+* [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 
-## Sites de Artigos e tutoriais 💬
+## Sites de Artigos e tutoriais 💻
 
 * [CSS Tricks](https://css-tricks.com/)
 * [Site Point](https://www.sitepoint.com/blog/)
@@ -173,7 +174,7 @@
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
 
-## Lorem Ipsum 📌
+## Lorem Ipsum 🈵
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
