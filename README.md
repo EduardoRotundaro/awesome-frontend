@@ -6,23 +6,35 @@
 
 # &nbsp;
 
-### Bibliotecas 📂
+## Bibliotecas 📂
+
+#### UI
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Shoe Lace](https://www.shoelace.style/)
+
+#### CSS
+
 * [Purge CSS](https://www.purgecss.com/)
 * [Pure CSS](https://purecss.io/start/)
 * [Post CSS](https://postcss.org/)
 * [960 Grid System](https://960.gs/)
 * [Tailwind](https://tailwindcss.com/)
-* [Lodash](https://lodash.com/docs/4.17.15)
-* [Moment.js](https://momentjs.com/)
-* [Shoe Lace](https://www.shoelace.style/)
-* [Pug](https://pugjs.org/api/getting-started.html)
-* [CSS Owl](https://cssowl.owl-stars.com/)
-* [Bourbon](https://www.bourbon.io/)
+
+#### SASS
+
 * [Andy.scss](http://gillesbertaux.com/andy/)
 * [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins)
 * [Breakpoint SASS](http://breakpoint-sass.com/)
+* [Pleeease](http://pleeease.io/)
+* [CSS Owl](https://cssowl.owl-stars.com/)
+* [Bourbon](https://www.bourbon.io/)
+
+#### Utilitários
+
+* [Lodash](https://lodash.com/docs/4.17.15)
+* [Moment.js](https://momentjs.com/)
+* [Pug](https://pugjs.org/api/getting-started.html)
 * [Base](https://getbase.org/)
 * [Bulma](https://bulma.io/)
 * [History](https://github.com/browserstate/history.js)
@@ -33,9 +45,8 @@
 * [Is.js](http://is.js.org/)
 * [Format.js](https://formatjs.io/)
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
-* [Pleeease](http://pleeease.io/)
 
-### Ícones 👍🏻
+## Ícones 👍🏻
 
 * [Font Awesome](https://fontawesome.com/icons?d=gallery)
 * [Octicons](https://octicons.github.com/)
@@ -49,7 +60,7 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
-### Animações CSS 🏃
+## Animações CSS 🏃
 
 * [Infinite](http://tilomitra.github.io/infinite/)
 * [Vivify](http://vivify.mkcreative.cz/)
@@ -61,7 +72,7 @@
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
 
-### Design 💡
+## Design 💡
 
 * [Dribbble](https://dribbble.com/)
 * [Free Frontend](https://freefrontend.com/)
@@ -73,12 +84,12 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
-### Fontes 🅰️
+## Fontes 🅰️
 
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
 
-### Cores 🎨
+## Cores 🎨
 
 * [HTML Color Codes](https://htmlcolorcodes.com/)
 * [UI Gradients](https://uigradients.com/#VerBlack)
@@ -86,7 +97,7 @@
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
 
-### Gerador de CSS ✏
+## Gerador de CSS ✏
 
 * [CSS3 Maker](https://www.css3maker.com/index.html)
 * [Grid Maker](https://grid.layoutit.com/)
@@ -95,12 +106,13 @@
 * [Enjoy CSS](https://enjoycss.com/)
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
 
-### Listas 📋
+## Listas 📋
 
 * [Emojis](https://gist.github.com/oliveratgithub/0bf11a9aff0d6da7b46f1490f86a71eb)
 * [HTML Symbols](https://slack-redir.net/link?url=https%3A%2F%2Fwww.toptal.com%2Fdesigners%2Fhtmlarrows%2F)
+* [HTML Symbols 2](https://www.toptal.com/designers/htmlarrows/)
 
-### React ⚛
+## React ⚛
 
 * [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
 * [Material UI](https://material-ui.com/)
@@ -109,12 +121,12 @@
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Semantic UI](https://react.semantic-ui.com/)
 
-### Markdown 📝
+## Markdown 📝
 
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
 
-### Desenvolvimento 🚧
+## Desenvolvimento 🚧
 
 * [Gitmoji](https://gitmoji.carloscuesta.me/)
 * [4Devs](https://www.4devs.com.br/)
@@ -125,8 +137,9 @@
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Free Formatter](https://www.freeformatter.com/)
 * [JS Tips](https://www.jstips.co/)
+* [Svelte](https://svelte.dev/)
 
-### Tutoriais ❓
+## Tutoriais ❓
 
 * [Flex Box Froggy](https://flexboxfroggy.com/)
 * [Internet Is Hard](https://internetingishard.com/)
@@ -136,7 +149,7 @@
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
-### Artigos 📰
+## Artigos 📰
 
 * [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [Frontend Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
@@ -152,7 +165,7 @@
 * [MV* Design Patterns](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
-### Sites de Artigos e tutoriais 💬
+## Sites de Artigos e tutoriais 💬
 
 * [CSS Tricks](https://css-tricks.com/)
 * [Site Point](https://www.sitepoint.com/blog/)
@@ -160,22 +173,23 @@
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
 
-### Lorem Ipsum 📌
+## Lorem Ipsum 📌
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
-### Imagens 🎴
+## Imagens 🎴
 
 * [Unsplash](https://unsplash.com/)
 
-### Documentações 📔
+## Documentações 📔
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
-### Extensões ⬇️
+## Extensões ⬇️
 
 * [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
+* [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
