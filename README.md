@@ -8,11 +8,6 @@
 
 ## Bibliotecas 📂
 
-#### UI
-
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-* [Shoe Lace](https://www.shoelace.style/)
-
 #### CSS
 
 * [Purge CSS](https://www.purgecss.com/)
@@ -46,6 +41,36 @@
 * [Format.js](https://formatjs.io/)
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
 
+### &nbsp;
+
+## Gerador de CSS 👉🏻
+
+* [CSS3 Maker](https://www.css3maker.com/index.html)
+* [Grid Maker](https://grid.layoutit.com/)
+* [CSS Matic](https://www.cssmatic.com/)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Enjoy CSS](https://enjoycss.com/)
+* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
+
+### &nbsp;
+
+## Fontes 🅰️
+
+* [Google Fonts](https://fonts.google.com/)
+* [Dafont](https://www.dafont.com/mtheme.php)
+
+### &nbsp;
+
+## Cores 🎨
+
+* [HTML Color Codes](https://htmlcolorcodes.com/)
+* [UI Gradients](https://uigradients.com/#VerBlack)
+* [Flat UI Colors](https://flatuicolors.com/)
+* [Gradient Generator](https://www.ccbg.io/generator)
+* [Brand Colors](https://brandcolors.net/)
+
+### &nbsp;
+
 ## Ícones 👍🏻
 
 * [Font Awesome](https://fontawesome.com/icons?d=gallery)
@@ -60,51 +85,7 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
-## Animações CSS 🏃
-
-* [Infinite](http://tilomitra.github.io/infinite/)
-* [Vivify](http://vivify.mkcreative.cz/)
-* [Hover](http://ianlunn.github.io/Hover/)
-* [Tuesday](http://shakrmedia.github.io/tuesday/)
-* [Reboundgen](http://dwarcher.github.io/reboundgen/examples/)
-* [Motion](http://pavlyukpetr.com/awesome/#)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [Animista](https://animista.net/)
-* [Animate](http://cssanimate.com/)
-
-## Design 💡
-
-* [Dribbble](https://dribbble.com/)
-* [Free Frontend](https://freefrontend.com/)
-* [Code My UI](https://codemyui.com/)
-* [Collect UI](http://collectui.com/)
-* [Inspiration UI](http://inspirationui.com/)
-* [Lapa Ninja](https://www.lapa.ninja/)
-* [Httpster](https://httpster.net/)
-* [Page Flows](https://pageflows.com/)
-* [One Page Love](https://onepagelove.com/inspiration)
-
-## Fontes 🅰️
-
-* [Google Fonts](https://fonts.google.com/)
-* [Dafont](https://www.dafont.com/mtheme.php)
-
-## Cores 🎨
-
-* [HTML Color Codes](https://htmlcolorcodes.com/)
-* [UI Gradients](https://uigradients.com/#VerBlack)
-* [Flat UI Colors](https://flatuicolors.com/)
-* [Gradient Generator](https://www.ccbg.io/generator)
-* [Brand Colors](https://brandcolors.net/)
-
-## Gerador de CSS 👉🏻
-
-* [CSS3 Maker](https://www.css3maker.com/index.html)
-* [Grid Maker](https://grid.layoutit.com/)
-* [CSS Matic](https://www.cssmatic.com/)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [Enjoy CSS](https://enjoycss.com/)
-* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
+### &nbsp;
 
 ## Listas 📋
 
@@ -112,19 +93,7 @@
 * [HTML Symbols](https://slack-redir.net/link?url=https%3A%2F%2Fwww.toptal.com%2Fdesigners%2Fhtmlarrows%2F)
 * [HTML Symbols 2](https://www.toptal.com/designers/htmlarrows/)
 
-## React ⚛
-
-* [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
-* [Material UI](https://material-ui.com/)
-* [Ant Design](https://github.com/ant-design/ant-design)
-* [Awesome React](https://github.com/enaqx/awesome-react)
-* [Awesome React Components](https://github.com/brillout/awesome-react-components)
-* [Semantic UI](https://react.semantic-ui.com/)
-
-## Markdown 📝
-
-* [Dillinger](https://dillinger.io/)
-* [Stack Edit](https://stackedit.io/app#)
+### &nbsp;
 
 ## Desenvolvimento 🚧
 
@@ -139,6 +108,55 @@
 * [JS Tips](https://www.jstips.co/)
 * [Svelte](https://svelte.dev/)
 
+### &nbsp;
+
+## Animações CSS 🏃
+
+* [Infinite](http://tilomitra.github.io/infinite/)
+* [Vivify](http://vivify.mkcreative.cz/)
+* [Hover](http://ianlunn.github.io/Hover/)
+* [Tuesday](http://shakrmedia.github.io/tuesday/)
+* [Reboundgen](http://dwarcher.github.io/reboundgen/examples/)
+* [Motion](http://pavlyukpetr.com/awesome/#)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [Animista](https://animista.net/)
+* [Animate](http://cssanimate.com/)
+
+### &nbsp;
+
+## Design 💡
+
+* [Dribbble](https://dribbble.com/)
+* [Free Frontend](https://freefrontend.com/)
+* [Code My UI](https://codemyui.com/)
+* [Collect UI](http://collectui.com/)
+* [Inspiration UI](http://inspirationui.com/)
+* [Lapa Ninja](https://www.lapa.ninja/)
+* [Httpster](https://httpster.net/)
+* [Page Flows](https://pageflows.com/)
+* [One Page Love](https://onepagelove.com/inspiration)
+
+### &nbsp;
+
+## React ⚛
+
+* [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
+* [Material UI](https://material-ui.com/)
+* [Ant Design](https://github.com/ant-design/ant-design)
+* [Awesome React](https://github.com/enaqx/awesome-react)
+* [Awesome React Components](https://github.com/brillout/awesome-react-components)
+* [Semantic UI](https://react.semantic-ui.com/)
+* [Next.js](https://nextjs.org/)
+
+### &nbsp;
+
+## Markdown 📝
+
+* [Dillinger](https://dillinger.io/)
+* [Stack Edit](https://stackedit.io/app#)
+
+### &nbsp;
+
 ## Tutoriais ❓
 
 * [Flex Box Froggy](https://flexboxfroggy.com/)
@@ -149,12 +167,14 @@
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
+### &nbsp;
+
 ## Artigos 📰
 
 * [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [Frontend Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 * [Another Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-* [Conteúdo do <head>](https://github.com/joshbuchea/HEAD)
+* [Conteúdo do Head](https://github.com/joshbuchea/HEAD)
 * [30 Useful CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Organizando o HTML](https://css-tricks.com/how-to-section-your-html/)
 * [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
@@ -166,6 +186,8 @@
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 
+### &nbsp;
+
 ## Sites de Artigos e tutoriais 💻
 
 * [CSS Tricks](https://css-tricks.com/)
@@ -174,20 +196,35 @@
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
 
+### &nbsp;
+
 ## Lorem Ipsum 🈵
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
+### &nbsp;
+
 ## Imagens 🎴
 
 * [Unsplash](https://unsplash.com/)
+
+### &nbsp;
+
+## UI 🖌
+
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Shoe Lace](https://www.shoelace.style/)
+
+### &nbsp;
 
 ## Documentações 📔
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+
+### &nbsp;
 
 ## Extensões ⬇️
 
