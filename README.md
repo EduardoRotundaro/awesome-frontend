@@ -89,9 +89,8 @@
 
 ## Listas 📋
 
-* [Emojis](https://gist.github.com/oliveratgithub/0bf11a9aff0d6da7b46f1490f86a71eb)
-* [HTML Symbols](https://slack-redir.net/link?url=https%3A%2F%2Fwww.toptal.com%2Fdesigners%2Fhtmlarrows%2F)
-* [HTML Symbols 2](https://www.toptal.com/designers/htmlarrows/)
+* [Emojis](https://eduardorotundaro.github.io/emoji-list/)
+* [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 
 ### &nbsp;
 
