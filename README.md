@@ -41,7 +41,7 @@
 * [Format.js](https://formatjs.io/)
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
 
-### &nbsp;
+&nbsp;
 
 ## Gerador de CSS 👉🏻
 
@@ -52,14 +52,14 @@
 * [Enjoy CSS](https://enjoycss.com/)
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
 
-### &nbsp;
+&nbsp;
 
 ## Fontes 🅰️
 
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
 
-### &nbsp;
+&nbsp;
 
 ## Cores 🎨
 
@@ -69,7 +69,7 @@
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
 
-### &nbsp;
+&nbsp;
 
 ## Ícones 👍🏻
 
@@ -85,14 +85,14 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
-### &nbsp;
+&nbsp;
 
 ## Listas 📋
 
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 
-### &nbsp;
+&nbsp;
 
 ## Desenvolvimento 🚧
 
@@ -104,10 +104,9 @@
 * [Learn Layout](http://learnlayout.com/)
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Free Formatter](https://www.freeformatter.com/)
-* [JS Tips](https://www.jstips.co/)
 * [Svelte](https://svelte.dev/)
 
-### &nbsp;
+&nbsp;
 
 ## Animações CSS 🏃
 
@@ -121,7 +120,7 @@
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
 
-### &nbsp;
+&nbsp;
 
 ## Design 💡
 
@@ -135,7 +134,7 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
-### &nbsp;
+&nbsp;
 
 ## React ⚛
 
@@ -147,14 +146,14 @@
 * [Semantic UI](https://react.semantic-ui.com/)
 * [Next.js](https://nextjs.org/)
 
-### &nbsp;
+&nbsp;
 
 ## Markdown 📝
 
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
 
-### &nbsp;
+&nbsp;
 
 ## Tutoriais ❓
 
@@ -166,7 +165,7 @@
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
-### &nbsp;
+&nbsp;
 
 ## Artigos 📰
 
@@ -184,8 +183,9 @@
 * [MV* Design Patterns](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
+* [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 
-### &nbsp;
+&nbsp;
 
 ## Sites de Artigos e tutoriais 💻
 
@@ -194,28 +194,29 @@
 * [Egg Head](https://egghead.io/)
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
+* [JS Tips](https://www.jstips.co/)
 
-### &nbsp;
+&nbsp;
 
 ## Lorem Ipsum 🈵
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
-### &nbsp;
+&nbsp;
 
 ## Imagens 🎴
 
 * [Unsplash](https://unsplash.com/)
 
-### &nbsp;
+&nbsp;
 
 ## UI 🖌
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
 
-### &nbsp;
+&nbsp;
 
 ## Documentações 📔
 
@@ -223,7 +224,7 @@
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
-### &nbsp;
+&nbsp;
 
 ## Extensões ⬇️
 
