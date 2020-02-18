@@ -156,6 +156,8 @@
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Semantic UI](https://react.semantic-ui.com/)
 * [Next.js](https://nextjs.org/)
+* [Blueprint](https://blueprintjs.com/docs/)
+* [Styled Components](https://github.com/styled-components/styled-components)
 
 &nbsp;
 
@@ -216,6 +218,7 @@
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
 * [JS Tips](https://www.jstips.co/)
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 &nbsp;
 
@@ -247,10 +250,13 @@
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [React](https://github.com/enaqx/awesome-react)
+* [React Tips](https://github.com/vasanthk/react-bits)
 * [React Components](https://github.com/brillout/awesome-react-components)
 * [React Native](https://github.com/jondot/awesome-react-native)
+* [Redux](https://github.com/markerikson/react-redux-links)
 * [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [MongoDB](https://github.com/ramnes/awesome-mongodb)
+* [Frontend](https://github.com/grab/front-end-guide)
 * [Design](https://github.com/gztchan/awesome-design)
 * [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
