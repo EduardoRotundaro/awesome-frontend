@@ -10,37 +10,37 @@
 
 #### CSS
 
-* [Purge CSS](https://www.purgecss.com/)
-* [Pure CSS](https://purecss.io/start/)
-* [Post CSS](https://postcss.org/)
-* [960 Grid System](https://960.gs/)
-* [Tailwind](https://tailwindcss.com/)
+* [Purge CSS](https://www.purgecss.com/) - remover CSS não utilizados.
+* [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
+* [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
+* [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
+* [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
 #### SASS
 
-* [Andy.scss](http://gillesbertaux.com/andy/)
-* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins)
-* [Breakpoint SASS](http://breakpoint-sass.com/)
-* [Pleeease](http://pleeease.io/)
-* [CSS Owl](https://cssowl.owl-stars.com/)
-* [Bourbon](https://www.bourbon.io/)
+* [Andy.scss](http://gillesbertaux.com/andy/) - coleção de mixins utilitários.
+* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins) - coleção de mixins utilitários.
+* [Breakpoint SASS](http://breakpoint-sass.com/) - coleção de Media Queries.
+* [Pleeease](http://pleeease.io/) - pré-processador de CSS.
+* [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
+* [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
 #### Utilitários
 
-* [Lodash](https://lodash.com/docs/4.17.15)
-* [Moment.js](https://momentjs.com/)
-* [Pug](https://pugjs.org/api/getting-started.html)
-* [Base](https://getbase.org/)
-* [Bulma](https://bulma.io/)
-* [History](https://github.com/browserstate/history.js)
-* [Analyze CSS](https://github.com/macbre/analyze-css)
-* [Voca.js](https://vocajs.com/)
-* [Luxon](https://moment.github.io/luxon/)
-* [Math.js](https://mathjs.org/)
-* [Is.js](http://is.js.org/)
-* [Format.js](https://formatjs.io/)
-* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
-* [Clipboard](https://github.com/zenorocha/clipboard.js)
+* [Lodash](https://lodash.com/docs/4.17.15) - biblioteca de utilidades em JS.
+* [Moment.js](https://momentjs.com/) - biblioteca de manipulação de datas me JS.
+* [Pug](https://pugjs.org/api/getting-started.html) - template engine.
+* [Base](https://getbase.org/) - framework CSS responsivo.
+* [Bulma](https://bulma.io/) - framework CSS baseado em Flexbox.
+* [History](https://github.com/browserstate/history.js) - biblioteca de histórico e estados.
+* [Analyze CSS](https://github.com/macbre/analyze-css) - analisar performance de arquivos CSS.
+* [Voca.js](https://vocajs.com/) - biblioteca para strings em JS.
+* [Luxon](https://moment.github.io/luxon/) - biblioteca de manipulação de datas me JS.
+* [Math.js](https://mathjs.org/) - biblioteca de utilidades matemáticas.
+* [Is.js](http://is.js.org/) - biblioteca para validações.
+* [Format.js](https://formatjs.io/) - biblioteca para formatações.
+* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
+* [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
 &nbsp;
 
