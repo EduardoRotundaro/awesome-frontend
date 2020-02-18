@@ -40,6 +40,7 @@
 * [Is.js](http://is.js.org/)
 * [Format.js](https://formatjs.io/)
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
+* [Clipboard](https://github.com/zenorocha/clipboard.js)
 
 &nbsp;
 
@@ -51,6 +52,8 @@
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Enjoy CSS](https://enjoycss.com/)
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
+* [CSS Type Set](http://csstypeset.com/)
+* [Auto Prefixer](https://autoprefixer.github.io/)
 
 &nbsp;
 
@@ -65,6 +68,7 @@
 
 * [HTML Color Codes](https://htmlcolorcodes.com/)
 * [UI Gradients](https://uigradients.com/#VerBlack)
+* [Coolors](https://coolors.co/app)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
@@ -91,6 +95,7 @@
 
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
+* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 &nbsp;
 
@@ -105,6 +110,12 @@
 * [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Free Formatter](https://www.freeformatter.com/)
 * [Svelte](https://svelte.dev/)
+* [Apps Ideas](https://github.com/florinpop17/app-ideas)
+* [Pingdom Website Speed Test](https://tools.pingdom.com/)
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 
 &nbsp;
 
@@ -184,6 +195,7 @@
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
+* [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 &nbsp;
 
@@ -208,6 +220,9 @@
 ## Imagens 🎴
 
 * [Unsplash](https://unsplash.com/)
+* [Online Logo Maker](https://www.onlinelogomaker.com/logomaker/)
+* [Logo Makr](https://logomakr.com/)
+* [Lean Logo Maker](https://leanlogomaker.com/)
 
 &nbsp;
 
