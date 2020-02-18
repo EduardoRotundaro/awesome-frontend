@@ -178,6 +178,14 @@
 
 &nbsp;
 
+## Style guides 📑
+
+* [Javascript](https://github.com/airbnb/javascript)
+* [CSS & SASS](https://github.com/airbnb/css)
+* [React](https://github.com/airbnb/javascript/tree/master/react)
+
+&nbsp;
+
 ## Artigos 📰
 
 * [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
@@ -196,6 +204,7 @@
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
 
 &nbsp;
 
@@ -226,10 +235,24 @@
 
 &nbsp;
 
-## UI 🖌
+## UI 💄
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
+
+&nbsp;
+
+## Listas Awesome 👓
+
+* [Awesome](https://github.com/sindresorhus/awesome)
+* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [React](https://github.com/enaqx/awesome-react)
+* [React Components](https://github.com/brillout/awesome-react-components)
+* [React Native](https://github.com/jondot/awesome-react-native)
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [MongoDB](https://github.com/ramnes/awesome-mongodb)
+* [Design](https://github.com/gztchan/awesome-design)
+* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 &nbsp;
 
