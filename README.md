@@ -140,6 +140,7 @@
 * [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+* [REPL](https://repl.it/)
 
 &nbsp;
 
@@ -231,6 +232,9 @@
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
+* [BEM CSS](http://getbem.com/introduction/)
+* [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
+* [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 
 &nbsp;
 
