@@ -4,53 +4,77 @@
 
 ---
 
+## Conteúdo
+
+* 📂&nbsp;[Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas)
+* 👉🏻&nbsp;[Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css)
+* 🅰️&nbsp;[Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes)
+* 🎨&nbsp;[Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores)
+* 👍🏻&nbsp;[Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones)
+* 📋&nbsp;[Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas)
+* 🚧&nbsp;[Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento)
+* 🏃&nbsp;[Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css)
+* 💡&nbsp;[Design](https://github.com/EduardoRotundaro/awesome-frontend#design)
+* ⚛&nbsp;[React](https://github.com/EduardoRotundaro/awesome-frontend#react)
+* 📝&nbsp;[Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown)
+* ❓&nbsp;[Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais)
+* 📑&nbsp;[Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides)
+* 📰&nbsp;[Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos)
+* 💻&nbsp;[Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais)
+* 🈵&nbsp;[Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum)
+* 🎴&nbsp;[Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens)
+* 💄&nbsp;[UI](https://github.com/EduardoRotundaro/awesome-frontend#ui)
+* 👓&nbsp;[Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome)
+* 📔&nbsp;[Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es)
+* ⬇️&nbsp;[Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es)
+
 # &nbsp;
 
-## Bibliotecas 📂
+## Bibliotecas
 
 #### CSS
 
-* [Purge CSS](https://www.purgecss.com/)
-* [Pure CSS](https://purecss.io/start/)
-* [Post CSS](https://postcss.org/)
-* [960 Grid System](https://960.gs/)
-* [Tailwind](https://tailwindcss.com/)
+* [Purge CSS](https://www.purgecss.com/) - remover CSS não utilizados.
+* [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
+* [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
+* [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
+* [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### SASS
 
-* [Andy.scss](http://gillesbertaux.com/andy/)
-* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins)
-* [Breakpoint SASS](http://breakpoint-sass.com/)
-* [Pleeease](http://pleeease.io/)
-* [CSS Owl](https://cssowl.owl-stars.com/)
-* [Bourbon](https://www.bourbon.io/)
+* [Andy.scss](http://gillesbertaux.com/andy/) - coleção de mixins utilitários.
+* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins) - coleção de mixins utilitários.
+* [Breakpoint SASS](http://breakpoint-sass.com/) - coleção de Media Queries.
+* [Pleeease](http://pleeease.io/) - pré-processador de CSS.
+* [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
+* [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### Utilitários
 
-* [Lodash](https://lodash.com/docs/4.17.15)
-* [Moment.js](https://momentjs.com/)
-* [Pug](https://pugjs.org/api/getting-started.html)
-* [Base](https://getbase.org/)
-* [Bulma](https://bulma.io/)
-* [History](https://github.com/browserstate/history.js)
-* [Analyze CSS](https://github.com/macbre/analyze-css)
-* [Voca.js](https://vocajs.com/)
-* [Luxon](https://moment.github.io/luxon/)
-* [Math.js](https://mathjs.org/)
-* [Is.js](http://is.js.org/)
-* [Format.js](https://formatjs.io/)
-* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
-* [Clipboard](https://github.com/zenorocha/clipboard.js)
+* [Lodash](https://lodash.com/docs/4.17.15) - biblioteca de utilidades em JS.
+* [Moment.js](https://momentjs.com/) - biblioteca de manipulação de datas me JS.
+* [Pug](https://pugjs.org/api/getting-started.html) - template engine.
+* [Base](https://getbase.org/) - framework CSS responsivo.
+* [Bulma](https://bulma.io/) - framework CSS baseado em Flexbox.
+* [History](https://github.com/browserstate/history.js) - biblioteca de histórico e estados.
+* [Analyze CSS](https://github.com/macbre/analyze-css) - analisar performance de arquivos CSS.
+* [Voca.js](https://vocajs.com/) - biblioteca para strings em JS.
+* [Luxon](https://moment.github.io/luxon/) - biblioteca de manipulação de datas me JS.
+* [Math.js](https://mathjs.org/) - biblioteca de utilidades matemáticas.
+* [Is.js](http://is.js.org/) - biblioteca para validações.
+* [Format.js](https://formatjs.io/) - biblioteca para formatações.
+* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
+* [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
-## Gerador de CSS 👉🏻
+## Gerador de CSS
 
 * [CSS3 Maker](https://www.css3maker.com/index.html)
 * [Grid Maker](https://grid.layoutit.com/)
@@ -65,7 +89,7 @@
 
 &nbsp;
 
-## Fontes 🅰️
+## Fontes
 
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
@@ -74,7 +98,7 @@
 
 &nbsp;
 
-## Cores 🎨
+## Cores
 
 * [HTML Color Codes](https://htmlcolorcodes.com/)
 * [UI Gradients](https://uigradients.com/#VerBlack)
@@ -87,7 +111,7 @@
 
 &nbsp;
 
-## Ícones 👍🏻
+## Ícones
 
 * [Font Awesome](https://fontawesome.com/icons?d=gallery)
 * [Octicons](https://octicons.github.com/)
@@ -105,7 +129,7 @@
 
 &nbsp;
 
-## Listas 📋
+## Listas
 
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
@@ -115,7 +139,7 @@
 
 &nbsp;
 
-## Desenvolvimento 🚧
+## Desenvolvimento
 
 * [Gitmoji](https://gitmoji.carloscuesta.me/)
 * [4Devs](https://www.4devs.com.br/)
@@ -132,12 +156,13 @@
 * [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+* [REPL](https://repl.it/)
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
-## Animações CSS 🏃
+## Animações CSS
 
 * [Infinite](http://tilomitra.github.io/infinite/)
 * [Vivify](http://vivify.mkcreative.cz/)
@@ -153,7 +178,7 @@
 
 &nbsp;
 
-## Design 💡
+## Design
 
 * [Dribbble](https://dribbble.com/)
 * [Free Frontend](https://freefrontend.com/)
@@ -169,7 +194,7 @@
 
 &nbsp;
 
-## React ⚛
+## React
 
 * [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
 * [Material UI](https://material-ui.com/)
@@ -178,12 +203,14 @@
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Semantic UI](https://react.semantic-ui.com/)
 * [Next.js](https://nextjs.org/)
+* [Blueprint](https://blueprintjs.com/docs/)
+* [Styled Components](https://github.com/styled-components/styled-components)
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
-## Markdown 📝
+## Markdown
 
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
@@ -192,7 +219,7 @@
 
 &nbsp;
 
-## Tutoriais ❓
+## Tutoriais
 
 * [Flex Box Froggy](https://flexboxfroggy.com/)
 * [Internet Is Hard](https://internetingishard.com/)
@@ -206,7 +233,15 @@
 
 &nbsp;
 
-## Artigos 📰
+## Style guides
+
+* [Javascript](https://github.com/airbnb/javascript)
+* [CSS & SASS](https://github.com/airbnb/css)
+* [React](https://github.com/airbnb/javascript/tree/master/react)
+
+&nbsp;
+
+## Artigos
 
 * [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [Frontend Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
@@ -224,12 +259,16 @@
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
+* [BEM CSS](http://getbem.com/introduction/)
+* [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
+* [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
-## Sites de Artigos e tutoriais 💻
+## Sites de Artigos e tutoriais
 
 * [CSS Tricks](https://css-tricks.com/)
 * [Site Point](https://www.sitepoint.com/blog/)
@@ -237,12 +276,13 @@
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
 * [JS Tips](https://www.jstips.co/)
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 * [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
-## Lorem Ipsum 🈵
+## Lorem Ipsum
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
@@ -251,7 +291,7 @@
 
 &nbsp;
 
-## Imagens 🎴
+## Imagens
 
 * [Unsplash](https://unsplash.com/)
 * [Online Logo Maker](https://www.onlinelogomaker.com/logomaker/)
@@ -262,7 +302,7 @@
 
 &nbsp;
 
-## UI 🖌
+## UI
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
@@ -271,7 +311,24 @@
 
 &nbsp;
 
-## Documentações 📔
+## Listas Awesome
+
+* [Awesome](https://github.com/sindresorhus/awesome)
+* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [React](https://github.com/enaqx/awesome-react)
+* [React Tips](https://github.com/vasanthk/react-bits)
+* [React Components](https://github.com/brillout/awesome-react-components)
+* [React Native](https://github.com/jondot/awesome-react-native)
+* [Redux](https://github.com/markerikson/react-redux-links)
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [MongoDB](https://github.com/ramnes/awesome-mongodb)
+* [Frontend](https://github.com/grab/front-end-guide)
+* [Design](https://github.com/gztchan/awesome-design)
+* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
+&nbsp;
+
+## Documentações
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
@@ -281,7 +338,7 @@
 
 &nbsp;
 
-## Extensões ⬇️
+## Extensões
 
 * [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
