@@ -16,6 +16,8 @@
 * [960 Grid System](https://960.gs/)
 * [Tailwind](https://tailwindcss.com/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 #### SASS
 
 * [Andy.scss](http://gillesbertaux.com/andy/)
@@ -24,6 +26,8 @@
 * [Pleeease](http://pleeease.io/)
 * [CSS Owl](https://cssowl.owl-stars.com/)
 * [Bourbon](https://www.bourbon.io/)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### Utilitários
 
@@ -42,6 +46,8 @@
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html)
 * [Clipboard](https://github.com/zenorocha/clipboard.js)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Gerador de CSS 👉🏻
@@ -55,12 +61,16 @@
 * [CSS Type Set](http://csstypeset.com/)
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Fontes 🅰️
 
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -72,6 +82,8 @@
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -89,6 +101,8 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Listas 📋
@@ -96,6 +110,8 @@
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -117,6 +133,8 @@
 * [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Animações CSS 🏃
@@ -130,6 +148,8 @@
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -145,6 +165,8 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## React ⚛
@@ -157,12 +179,16 @@
 * [Semantic UI](https://react.semantic-ui.com/)
 * [Next.js](https://nextjs.org/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Markdown 📝
 
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -175,6 +201,8 @@
 * [UI Patterns](http://ui-patterns.com/)
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -197,6 +225,8 @@
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Sites de Artigos e tutoriais 💻
@@ -208,12 +238,16 @@
 * [Tutorial Zine](https://tutorialzine.com/)
 * [JS Tips](https://www.jstips.co/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Lorem Ipsum 🈵
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -224,12 +258,16 @@
 * [Logo Makr](https://logomakr.com/)
 * [Lean Logo Maker](https://leanlogomaker.com/)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## UI 🖌
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -239,6 +277,8 @@
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Extensões ⬇️
@@ -246,3 +286,5 @@
 * [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+
+* [&#8679; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
