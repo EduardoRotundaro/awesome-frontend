@@ -48,6 +48,8 @@
 * [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 #### SASS
 
 * [Andy.scss](http://gillesbertaux.com/andy/) - coleção de mixins utilitários.
@@ -56,6 +58,8 @@
 * [Pleeease](http://pleeease.io/) - pré-processador de CSS.
 * [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
 * [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### Utilitários
 
@@ -74,6 +78,8 @@
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
 * [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Gerador de CSS
@@ -87,12 +93,16 @@
 * [CSS Type Set](http://csstypeset.com/)
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Fontes
 
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -104,6 +114,8 @@
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -121,6 +133,8 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Listas
@@ -128,6 +142,8 @@
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -150,6 +166,8 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 * [REPL](https://repl.it/)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Animações CSS
@@ -163,6 +181,8 @@
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -178,6 +198,8 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## React
@@ -192,12 +214,16 @@
 * [Blueprint](https://blueprintjs.com/docs/)
 * [Styled Components](https://github.com/styled-components/styled-components)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Markdown
 
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -210,6 +236,8 @@
 * [UI Patterns](http://ui-patterns.com/)
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -245,6 +273,8 @@
 * [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Sites de Artigos e tutoriais
@@ -257,12 +287,16 @@
 * [JS Tips](https://www.jstips.co/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Lorem Ipsum
 
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -273,12 +307,16 @@
 * [Logo Makr](https://logomakr.com/)
 * [Lean Logo Maker](https://leanlogomaker.com/)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## UI
 
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -305,6 +343,8 @@
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
 &nbsp;
 
 ## Extensões
@@ -312,3 +352,5 @@
 * [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+
+[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
