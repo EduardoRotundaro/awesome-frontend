@@ -4,29 +4,37 @@
 
 ---
 
-## Conteúdo
+| Conteúdo | &nbsp; |
+| ------ | ------ |
+| Código | &nbsp; |
+| 📂 | [Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas) |
+| 🚧 | [Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento) |
+| 📑 | [Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides) |
+| 💄 | [UI](https://github.com/EduardoRotundaro/awesome-frontend#ui) |
+| Ferramentas | &nbsp; |
+| 👉🏻 | [Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css) |
+| 🎨 | [Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores) |
+| 🏃 | [Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css) |
+| 📝 | [Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown) |
+| 📋 | [Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas) |
+| Recursos | &nbsp; |
+| 🅰️ | [Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes) |
+| 👍🏻 | [Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones) |
+| 🎴 | [Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens) |
+| 🈵 | [Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum) |
+| Links | &nbsp; |
+| 💡 | [Design](https://github.com/EduardoRotundaro/awesome-frontend#design) |
+| 👓 | [Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome) |
+| ❓| [Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais) |
+| 📰 | [Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos) |
+| 💻 | [Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais) |
+| Tecnologias | &nbsp; |
+| ⚛ | [React](https://github.com/EduardoRotundaro/awesome-frontend#react) |
+| Outros | &nbsp; |
+| ⬇️ | [Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es) |
+| 📔 | [Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es) |
 
-* 📂&nbsp;[Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas)
-* 👉🏻&nbsp;[Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css)
-* 🅰️&nbsp;[Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes)
-* 🎨&nbsp;[Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores)
-* 👍🏻&nbsp;[Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones)
-* 📋&nbsp;[Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas)
-* 🚧&nbsp;[Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento)
-* 🏃&nbsp;[Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css)
-* 💡&nbsp;[Design](https://github.com/EduardoRotundaro/awesome-frontend#design)
-* ⚛&nbsp;[React](https://github.com/EduardoRotundaro/awesome-frontend#react)
-* 📝&nbsp;[Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown)
-* ❓&nbsp;[Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais)
-* 📑&nbsp;[Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides)
-* 📰&nbsp;[Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos)
-* 💻&nbsp;[Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais)
-* 🈵&nbsp;[Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum)
-* 🎴&nbsp;[Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens)
-* 💄&nbsp;[UI](https://github.com/EduardoRotundaro/awesome-frontend#ui)
-* 👓&nbsp;[Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome)
-* 📔&nbsp;[Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es)
-* ⬇️&nbsp;[Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es)
+---
 
 # &nbsp;
 
@@ -34,7 +42,7 @@
 
 #### CSS
 
-* [Purge CSS](https://www.purgecss.com/) - remover CSS não utilizados.
+* [Purge CSS](https://www.purgecss.com/) - remova códigos CSS não utilizados.
 * [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
 * [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
 * [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
@@ -235,6 +243,7 @@
 * [BEM CSS](http://getbem.com/introduction/)
 * [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
 * [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
+* [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
 &nbsp;
 
