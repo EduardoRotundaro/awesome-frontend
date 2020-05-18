@@ -4,29 +4,32 @@
 
 ---
 
-## Conteúdo
+| Conteúdo | &nbsp; |
+| ------ | ------ |
+| 📂 | [Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas) |
+| 🚧 | [Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento) |
+| 📑 | [Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides) |
+| 💄 | [UI](https://github.com/EduardoRotundaro/awesome-frontend#ui) |
+| 👉🏻 | [Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css) |
+| 🎨 | [Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores) |
+| 🏃 | [Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css) |
+| 📝 | [Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown) |
+| 📋 | [Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas) |
+| 🅰️ | [Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes) |
+| 👍🏻 | [Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones) |
+| 🎴 | [Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens) |
+| 🈵 | [Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum) |
+| 💡 | [Design](https://github.com/EduardoRotundaro/awesome-frontend#design) |
+| 👓 | [Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome) |
+| ❓| [Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais) |
+| 📰 | [Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos) |
+| 💻 | [Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais) |
+| ⚛ | [React.js](https://github.com/EduardoRotundaro/awesome-frontend#react) |
+| 🔻 | [Vue.js](https://github.com/EduardoRotundaro/awesome-frontend#vue) |
+| ⬇️ | [Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es) |
+| 📔 | [Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es) |
 
-* 📂&nbsp;[Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas)
-* 👉🏻&nbsp;[Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css)
-* 🅰️&nbsp;[Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes)
-* 🎨&nbsp;[Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores)
-* 👍🏻&nbsp;[Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones)
-* 📋&nbsp;[Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas)
-* 🚧&nbsp;[Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento)
-* 🏃&nbsp;[Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css)
-* 💡&nbsp;[Design](https://github.com/EduardoRotundaro/awesome-frontend#design)
-* ⚛&nbsp;[React](https://github.com/EduardoRotundaro/awesome-frontend#react)
-* 📝&nbsp;[Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown)
-* ❓&nbsp;[Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais)
-* 📑&nbsp;[Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides)
-* 📰&nbsp;[Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos)
-* 💻&nbsp;[Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais)
-* 🈵&nbsp;[Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum)
-* 🎴&nbsp;[Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens)
-* 💄&nbsp;[UI](https://github.com/EduardoRotundaro/awesome-frontend#ui)
-* 👓&nbsp;[Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome)
-* 📔&nbsp;[Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es)
-* ⬇️&nbsp;[Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es)
+---
 
 # &nbsp;
 
@@ -34,13 +37,13 @@
 
 #### CSS
 
-* [Purge CSS](https://www.purgecss.com/) - remover CSS não utilizados.
+* [Purge CSS](https://www.purgecss.com/) - remova códigos CSS não utilizados.
 * [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
 * [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
 * [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### SASS
 
@@ -51,7 +54,7 @@
 * [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
 * [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 #### Utilitários
 
@@ -70,7 +73,7 @@
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
 * [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -85,7 +88,7 @@
 * [CSS Type Set](http://csstypeset.com/)
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -94,7 +97,7 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -107,7 +110,7 @@
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -125,7 +128,7 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -135,7 +138,7 @@
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -158,7 +161,7 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 * [REPL](https://repl.it/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -174,7 +177,7 @@
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -190,7 +193,7 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -206,7 +209,15 @@
 * [Blueprint](https://blueprintjs.com/docs/)
 * [Styled Components](https://github.com/styled-components/styled-components)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+
+&nbsp;
+
+## Vue
+
+* [...]()
+
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -215,7 +226,7 @@
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -229,7 +240,7 @@
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -264,8 +275,9 @@
 * [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
 * [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
 * [O que é SEO?](https://rockcontent.com/blog/o-que-e-seo/)
+* [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -279,7 +291,7 @@
 * [JS Tips](https://www.jstips.co/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -288,7 +300,7 @@
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -299,7 +311,7 @@
 * [Logo Makr](https://logomakr.com/)
 * [Lean Logo Maker](https://leanlogomaker.com/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -308,7 +320,7 @@
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -335,7 +347,7 @@
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
 &nbsp;
 
@@ -345,4 +357,4 @@
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
-[&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
