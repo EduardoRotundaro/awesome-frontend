@@ -2,6 +2,9 @@
 
 > Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend.
 
+&nbsp;
+&nbsp;
+
 ---
 
 &nbsp;
@@ -38,6 +41,7 @@
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 ## Bibliotecas
 
@@ -51,6 +55,7 @@
 
 **[⬆ Voltar ao menu](#conteúdo)**
 &nbsp;
+&nbsp;
 
 #### SASS
 
@@ -62,6 +67,7 @@
 * [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
 **[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 #### Utilitários
@@ -85,6 +91,11 @@
 &nbsp;
 &nbsp;
 
+---
+
+&nbsp;
+&nbsp;
+
 ## Gerador de CSS
 
 * [CSS3 Maker](https://www.css3maker.com/index.html)
@@ -97,6 +108,11 @@
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
+&nbsp;
+
+---
+
 &nbsp;
 &nbsp;
 
