@@ -4,32 +4,35 @@
 
 ---
 
+&nbsp;
+&nbsp;
+
 # Conteúdo
 
 | Conteúdo | O que tem? | &nbsp; |
 | ------ | ------ | ------ |
-| 📂 Bibliotecas | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
-| 🚧 Desenvolvimento | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#desenvolvimento)** |
-| 📑 Style guides | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
-| 💄 UI | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ui)** |
-| 👉🏻 Gerador de CSS | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#gerador-de-css)** |
-| 🎨 Cores | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#cores)** |
-| 🏃 Animações CSS | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#animações-css)** |
-| 📝 Markdown | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#markdown)** |
-| 📋 Listas | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas)** |
-| 🅰️ Fontes | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#fontes)** |
-| 👍🏻 Ícones | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ícones)** |
-| 🎴 Imagens | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#imagens)** |
-| 🈵 Lorem Ipsum | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#lorem-ipsum)** |
-| 💡 Design | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#design)** |
-| 👓 Listas Awesome | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas-awesome)** |
-| ❓Tutoriais | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#tutoriais)** |
-| 📰 Artigos | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#artigos)** |
-| 💻 Sites de Artigos e tutoriais | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#sites-de-artigos-e-tutoriais)** |
-| ⚛ React.js | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#react)** |
-| 🔻 Vue.js | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#vue)** |
-| ⬇️ Extensões | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#extensões)** |
-| 📔 Documentações | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#documentações)** |
+| 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
+| 🚧 **Desenvolvimento** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#desenvolvimento)** |
+| 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
+| 💄 **UI** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ui)** |
+| 👉🏻 **Gerador de CSS** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#gerador-de-css)** |
+| 🎨 **Cores** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#cores)** |
+| 🏃 **Animações CSS** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#animações-css)** |
+| 📝 **Markdown** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#markdown)** |
+| 📋 **Listas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas)** |
+| 🅰️ **Fontes** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#fontes)** |
+| 👍🏻 **Ícones** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ícones)** |
+| 🎴 **Imagens** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#imagens)** |
+| 🈵 **Lorem Ipsum** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#lorem-ipsum)** |
+| 💡 **Design** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#design)** |
+| 👓 **Listas Awesome** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas-awesome)** |
+| ❓ **Tutoriais** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#tutoriais)** |
+| 📰 **Artigos** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#artigos)** |
+| 💻 **Sites de Artigos e tutoriais** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#sites-de-artigos-e-tutoriais)** |
+| ⚛ **React.js** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#react)** |
+| 🔻 **Vue.js** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#vue)** |
+| ⬇️ **Extensões** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#extensões)** |
+| 📔 **Documentações** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#documentações)** |
 
 ---
 
@@ -47,6 +50,7 @@
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
 **[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 
 #### SASS
 
@@ -57,7 +61,8 @@
 * [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
 * [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 
 #### Utilitários
 
@@ -76,8 +81,8 @@
 * [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
 * [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Gerador de CSS
@@ -91,8 +96,8 @@
 * [CSS Type Set](http://csstypeset.com/)
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Fontes
@@ -100,8 +105,8 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Cores
@@ -113,8 +118,8 @@
 * [Gradient Generator](https://www.ccbg.io/generator)
 * [Brand Colors](https://brandcolors.net/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Ícones
@@ -131,8 +136,8 @@
 * [Icons8](https://icons8.com/icons)
 * [Simple Icons](https://simpleicons.org/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Listas
@@ -141,8 +146,8 @@
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Desenvolvimento
@@ -164,8 +169,8 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 * [REPL](https://repl.it/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Animações CSS
@@ -180,8 +185,8 @@
 * [Animista](https://animista.net/)
 * [Animate](http://cssanimate.com/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Design
@@ -196,8 +201,8 @@
 * [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## React
@@ -212,16 +217,16 @@
 * [Blueprint](https://blueprintjs.com/docs/)
 * [Styled Components](https://github.com/styled-components/styled-components)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Vue
 
-* [...]()
+* (Em desenvolvimento...)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Markdown
@@ -229,8 +234,8 @@
 * [Dillinger](https://dillinger.io/)
 * [Stack Edit](https://stackedit.io/app#)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Tutoriais
@@ -243,8 +248,8 @@
 * [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Style guides
@@ -253,6 +258,8 @@
 * [CSS & SASS](https://github.com/airbnb/css)
 * [React](https://github.com/airbnb/javascript/tree/master/react)
 
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Artigos
@@ -280,8 +287,8 @@
 * [O que é SEO?](https://rockcontent.com/blog/o-que-e-seo/)
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Sites de Artigos e tutoriais
@@ -294,8 +301,8 @@
 * [JS Tips](https://www.jstips.co/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Lorem Ipsum
@@ -303,8 +310,8 @@
 * [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Imagens
@@ -314,8 +321,8 @@
 * [Logo Makr](https://logomakr.com/)
 * [Lean Logo Maker](https://leanlogomaker.com/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## UI
@@ -323,8 +330,8 @@
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Shoe Lace](https://www.shoelace.style/)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Listas Awesome
@@ -342,16 +349,16 @@
 * [Design](https://github.com/gztchan/awesome-design)
 * [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
+**[⬆ Voltar ao menu](#conteúdo)**
 &nbsp;
-
 ## Documentações
 
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
-
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
 &nbsp;
 
 ## Extensões
@@ -360,4 +367,6 @@
 * [Redux DevtTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR)
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+**[⬆ Voltar ao menu](#conteúdo)**
+&nbsp;
+&nbsp;
