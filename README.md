@@ -4,34 +4,37 @@
 
 ---
 
-| Conteúdo | &nbsp; |
-| ------ | ------ |
-| 📂 | [Bibliotecas](https://github.com/EduardoRotundaro/awesome-frontend#bibliotecas) |
-| 🚧 | [Desenvolvimento](https://github.com/EduardoRotundaro/awesome-frontend#desenvolvimento) |
-| 📑 | [Style guides](https://github.com/EduardoRotundaro/awesome-frontend#style-guides) |
-| 💄 | [UI](https://github.com/EduardoRotundaro/awesome-frontend#ui) |
-| 👉🏻 | [Gerador de CSS](https://github.com/EduardoRotundaro/awesome-frontend#gerador-de-css) |
-| 🎨 | [Cores](https://github.com/EduardoRotundaro/awesome-frontend#cores) |
-| 🏃 | [Animações CSS](https://github.com/EduardoRotundaro/awesome-frontend#anima%C3%A7%C3%B5es-css) |
-| 📝 | [Markdown](https://github.com/EduardoRotundaro/awesome-frontend#markdown) |
-| 📋 | [Listas](https://github.com/EduardoRotundaro/awesome-frontend#listas) |
-| 🅰️ | [Fontes](https://github.com/EduardoRotundaro/awesome-frontend#fontes) |
-| 👍🏻 | [Ícones](https://github.com/EduardoRotundaro/awesome-frontend#%C3%ADcones) |
-| 🎴 | [Imagens](https://github.com/EduardoRotundaro/awesome-frontend#imagens) |
-| 🈵 | [Lorem Ipsum](https://github.com/EduardoRotundaro/awesome-frontend#lorem-ipsum) |
-| 💡 | [Design](https://github.com/EduardoRotundaro/awesome-frontend#design) |
-| 👓 | [Listas Awesome](https://github.com/EduardoRotundaro/awesome-frontend#listas-awesome) |
-| ❓| [Tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#tutoriais) |
-| 📰 | [Artigos](https://github.com/EduardoRotundaro/awesome-frontend#artigos) |
-| 💻 | [Sites de Artigos e tutoriais](https://github.com/EduardoRotundaro/awesome-frontend#sites-de-artigos-e-tutoriais) |
-| ⚛ | [React.js](https://github.com/EduardoRotundaro/awesome-frontend#react) |
-| 🔻 | [Vue.js](https://github.com/EduardoRotundaro/awesome-frontend#vue) |
-| ⬇️ | [Extensões](https://github.com/EduardoRotundaro/awesome-frontend#extens%C3%B5es) |
-| 📔 | [Documentações](https://github.com/EduardoRotundaro/awesome-frontend#documenta%C3%A7%C3%B5es) |
+# Conteúdo
+
+| Conteúdo | O que tem? | &nbsp; |
+| ------ | ------ | ------ |
+| 📂 Bibliotecas | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
+| 🚧 Desenvolvimento | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#desenvolvimento)** |
+| 📑 Style guides | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
+| 💄 UI | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ui)** |
+| 👉🏻 Gerador de CSS | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#gerador-de-css)** |
+| 🎨 Cores | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#cores)** |
+| 🏃 Animações CSS | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#animações-css)** |
+| 📝 Markdown | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#markdown)** |
+| 📋 Listas | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas)** |
+| 🅰️ Fontes | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#fontes)** |
+| 👍🏻 Ícones | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ícones)** |
+| 🎴 Imagens | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#imagens)** |
+| 🈵 Lorem Ipsum | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#lorem-ipsum)** |
+| 💡 Design | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#design)** |
+| 👓 Listas Awesome | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas-awesome)** |
+| ❓Tutoriais | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#tutoriais)** |
+| 📰 Artigos | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#artigos)** |
+| 💻 Sites de Artigos e tutoriais | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#sites-de-artigos-e-tutoriais)** |
+| ⚛ React.js | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#react)** |
+| 🔻 Vue.js | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#vue)** |
+| ⬇️ Extensões | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#extensões)** |
+| 📔 Documentações | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#documentações)** |
 
 ---
 
-# &nbsp;
+&nbsp;
+&nbsp;
 
 ## Bibliotecas
 
@@ -43,7 +46,7 @@
 * [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
-[&#128285;](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
+**[⬆ Voltar ao menu](#conteúdo)**
 
 #### SASS
 
