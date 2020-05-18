@@ -263,6 +263,7 @@
 * [BEM CSS](http://getbem.com/introduction/)
 * [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
 * [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
+* [O que é SEO?](https://rockcontent.com/blog/o-que-e-seo/)
 
 [&#128285; Voltar](https://github.com/EduardoRotundaro/awesome-frontend#conte%C3%BAdo)
 
