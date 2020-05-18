@@ -54,8 +54,6 @@
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
-&nbsp;
 
 #### SASS
 
@@ -67,8 +65,6 @@
 * [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
-&nbsp;
 
 #### Utilitários
 
@@ -88,12 +84,9 @@
 * [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
-&nbsp;
 
 ---
 
-&nbsp;
 &nbsp;
 
 ## Gerador de CSS
@@ -108,12 +101,9 @@
 * [Auto Prefixer](https://autoprefixer.github.io/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
-&nbsp;
 
 ---
 
-&nbsp;
 &nbsp;
 
 ## Fontes
@@ -122,7 +112,9 @@
 * [Dafont](https://www.dafont.com/mtheme.php)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Cores
@@ -135,7 +127,9 @@
 * [Brand Colors](https://brandcolors.net/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Ícones
@@ -153,7 +147,9 @@
 * [Simple Icons](https://simpleicons.org/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Listas
@@ -163,7 +159,9 @@
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Desenvolvimento
@@ -186,7 +184,9 @@
 * [REPL](https://repl.it/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Animações CSS
@@ -202,7 +202,9 @@
 * [Animate](http://cssanimate.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Design
@@ -218,7 +220,9 @@
 * [One Page Love](https://onepagelove.com/inspiration)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## React
@@ -234,7 +238,9 @@
 * [Styled Components](https://github.com/styled-components/styled-components)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Vue
@@ -242,7 +248,9 @@
 * (Em desenvolvimento...)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Markdown
@@ -251,7 +259,9 @@
 * [Stack Edit](https://stackedit.io/app#)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Tutoriais
@@ -265,7 +275,9 @@
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Style guides
@@ -275,7 +287,9 @@
 * [React](https://github.com/airbnb/javascript/tree/master/react)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Artigos
@@ -304,7 +318,9 @@
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Sites de Artigos e tutoriais
@@ -318,7 +334,9 @@
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Lorem Ipsum
@@ -327,7 +345,9 @@
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Imagens
@@ -338,7 +358,9 @@
 * [Lean Logo Maker](https://leanlogomaker.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## UI
@@ -347,7 +369,9 @@
 * [Shoe Lace](https://www.shoelace.style/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Listas Awesome
@@ -366,7 +390,11 @@
 * [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 **[⬆ Voltar ao menu](#conteúdo)**
+
+---
+
 &nbsp;
+
 ## Documentações
 
 * [CSS](https://www.w3schools.com/css/default.asp)
@@ -374,7 +402,9 @@
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
+
+---
+
 &nbsp;
 
 ## Extensões
@@ -384,5 +414,3 @@
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
 **[⬆ Voltar ao menu](#conteúdo)**
-&nbsp;
-&nbsp;
