@@ -15,7 +15,8 @@
 | Conteúdo | O que tem? | &nbsp; |
 | ------ | ------ | ------ |
 | 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
-| 🔨 **Desenvolvimento** | Ferramentas, recursos. | **[Ver](#desenvolvimento)** |
+| 🔨 **Desenvolvimento** | Ferramentas úteis para desenvolvimento | **[Ver](#desenvolvimento)** |
+| 🆒 **Dicas** | Coleção de utilidades | **[Ver](#dicas)** |
 | &nbsp; | &nbsp; | &nbsp; |
 | 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
 | 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
@@ -63,6 +64,7 @@
 * [Código Limpo com Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Conceitos de código limpo aplicados em Javascript.
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549) - Um artigo com as melhores práticas para validação de formulários.
 * [SEO](https://rockcontent.com/blog/o-que-e-seo/) - Um guia sobre SEO.
+* [Mobile First](https://medium.com/nossa-coletividad/por-que-%C3%A9-t%C3%A3o-f%C3%A1cil-errar-no-mobile-first-b51f8103e06a) - Um guia sobre o conceito "Mobile First".
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -83,6 +85,19 @@
 * [REPL](https://repl.it/) - Uma IDE online, com suporte a mais de 50 linguagens.
 
 **[⬆ Voltar ao menu](#conteúdo)**
+
+---
+
+&nbsp;
+
+## Dicas
+
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 conceitos em Javascript que todo desenvolvedor "deve" conhecer.
+* [JS Tips](https://www.jstips.co/) - Coleção de dicas e utilidades Javascript.
+* [30 Seconds of Code](https://www.30secondsofcode.org/) - Outra coleção de dicas e utilidades Javascript.
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Coleção de dicas e utilidades CSS.
+* [Apps Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias para criar aplicações para aprender um novo conceito, uma nova tecnologia ou aumentar o portifólio.
+* [Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Um roteiro de estudo, focado em áreas de desenvolvimento web.
 
 ---
 
@@ -317,7 +332,6 @@
 * [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 * [Media Queries](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Code Geekz](https://codegeekz.com/)
-* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -336,7 +350,6 @@
 * [Egg Head](https://egghead.io/)
 * [CSS Author](https://cssauthor.com/)
 * [Tutorial Zine](https://tutorialzine.com/)
-* [JS Tips](https://www.jstips.co/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 **[⬆ Voltar ao menu](#conteúdo)**
@@ -424,9 +437,5 @@
 
 * [Learn Layout](http://learnlayout.com/)
 * [Svelte](https://svelte.dev/)
-* [Apps Ideas](https://github.com/florinpop17/app-ideas)
-* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
-* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
-
-* [Mobile-first](https://medium.com/nossa-coletividad/por-que-%C3%A9-t%C3%A3o-f%C3%A1cil-errar-no-mobile-first-b51f8103e06a)
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
