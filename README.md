@@ -345,12 +345,13 @@
 
 ## Sites de Artigos e tutoriais
 
-* [CSS Tricks](https://css-tricks.com/)
-* [Site Point](https://www.sitepoint.com/blog/)
-* [Egg Head](https://egghead.io/)
 * [CSS Author](https://cssauthor.com/)
-* [Tutorial Zine](https://tutorialzine.com/)
+* [CSS Tricks](https://css-tricks.com/)
+* [Code House](https://codyhouse.co/)
+* [Egg Head](https://egghead.io/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+* [Site Point](https://www.sitepoint.com/blog/)
+* [Tutorial Zine](https://tutorialzine.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
