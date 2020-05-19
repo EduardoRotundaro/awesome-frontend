@@ -92,11 +92,11 @@
 
 ## Dicas
 
-* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 conceitos em Javascript que todo desenvolvedor "deve" conhecer.
-* [JS Tips](https://www.jstips.co/) - Coleção de dicas e utilidades Javascript.
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - Outra coleção de dicas e utilidades Javascript.
-* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Coleção de dicas e utilidades CSS.
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 conceitos em Javascript que todo desenvolvedor "deve" conhecer.
 * [Apps Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias para criar aplicações para aprender um novo conceito, uma nova tecnologia ou aumentar o portifólio.
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Coleção de dicas e utilidades CSS.
+* [JS Tips](https://www.jstips.co/) - Coleção de dicas e utilidades Javascript.
 * [Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Um roteiro de estudo, focado em áreas de desenvolvimento web.
 
 ---
