@@ -15,9 +15,9 @@
 | Conteúdo | O que tem? | &nbsp; |
 | ------ | ------ | ------ |
 | 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
-<!-- -_- -->
+| 🔨 **Desenvolvimento** | Ferramentas, recursos. | **[Ver](#desenvolvimento)** |
+| &nbsp; | &nbsp; | &nbsp; |
 | 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
-| 🚧 **Desenvolvimento** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#desenvolvimento)** |
 | 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
 | 💄 **UI** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ui)** |
 | 👉🏻 **Gerador de CSS** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#gerador-de-css)** |
@@ -63,6 +63,30 @@
 * [Código Limpo com Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Conceitos de código limpo aplicados em Javascript.
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549) - Um artigo com as melhores práticas para validação de formulários.
 * [SEO](https://rockcontent.com/blog/o-que-e-seo/) - Um guia sobre SEO.
+
+**[⬆ Voltar ao menu](#conteúdo)**
+
+---
+
+&nbsp;
+
+## Desenvolvimento
+
+* [Gitmoji](https://gitmoji.carloscuesta.me/) - Uma forma visual de categorizar os commits de um projeto.
+* [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/) - Uma convenção simples para dar um significado legível às mensagens de commit.
+* [Oh Shit Git](https://ohshitgit.com/) - Uma lista com comandos GIT que podem salvar.
+* [4Devs](https://www.4devs.com.br/) - Ferramenta para desenvolvedores: geradores, validadores, funções...
+* [Free Formatter](https://www.freeformatter.com/) - Ferramenta para desenvolvedores: formatadores, validadores, minificadores de código, conversores...
+* [Can I Use?](https://caniuse.com/) - Informa se determinado recurso é suportado por browsers ou por determinadas versões.
+* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - Ferramenta para testar responsividade de aplicações.
+* [Pingdom Website Speed Test](https://tools.pingdom.com/) - Uma ferramenta online para testes de performance em sites.
+* [REPL](https://repl.it/) - Uma IDE online, com suporte a mais de 50 linguagens.
+
+**[⬆ Voltar ao menu](#conteúdo)**
+
+---
+
+&nbsp;
 
 ## Bibliotecas
 
@@ -178,30 +202,6 @@
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
 * [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
-
-**[⬆ Voltar ao menu](#conteúdo)**
-
----
-
-&nbsp;
-
-## Desenvolvimento
-
-* [Gitmoji](https://gitmoji.carloscuesta.me/)
-* [4Devs](https://www.4devs.com.br/)
-* [Oh Shit Git](https://ohshitgit.com/)
-* [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
-* [Can I Use?](https://caniuse.com/)
-* [Learn Layout](http://learnlayout.com/)
-* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/)
-* [Free Formatter](https://www.freeformatter.com/)
-* [Svelte](https://svelte.dev/)
-* [Apps Ideas](https://github.com/florinpop17/app-ideas)
-* [Pingdom Website Speed Test](https://tools.pingdom.com/)
-* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-* [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
-* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
-* [REPL](https://repl.it/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -420,3 +420,13 @@
 * [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 
 **[⬆ Voltar ao menu](#conteúdo)**
+
+
+* [Learn Layout](http://learnlayout.com/)
+* [Svelte](https://svelte.dev/)
+* [Apps Ideas](https://github.com/florinpop17/app-ideas)
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+
+* [Mobile-first](https://medium.com/nossa-coletividad/por-que-%C3%A9-t%C3%A3o-f%C3%A1cil-errar-no-mobile-first-b51f8103e06a)
