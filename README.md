@@ -14,6 +14,8 @@
 
 | Conteúdo | O que tem? | &nbsp; |
 | ------ | ------ | ------ |
+| 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
+<!-- -_- -->
 | 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
 | 🚧 **Desenvolvimento** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#desenvolvimento)** |
 | 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
@@ -42,6 +44,25 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+## Conceitos
+
+* [Frontend Checklist I](https://codeburst.io/the-front-end-checklist-8b2292fdda44) - Uma lista de itens necessários/obrigatórios em uma aplicação frontend.
+* [Frontend Checklist II](https://github.com/thedaviddias/Front-End-Checklist) - Outra lista de itens necessários/obrigatórios em uma aplicação frontend.
+* [Conteúdo do Head](https://github.com/joshbuchea/HEAD) - Uma lista com tags para inserir no HEAD da página e o porquê de inseri-las.
+* [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521) - Uma lista com todas as tags HTML e uma descrição sobre quando dever ser utilizadas.
+* [Organizando o HTML](https://css-tricks.com/how-to-section-your-html/) - Estruturando o HTML da forma correta.
+* [+ Javascript Design Patterns](https://github.com/nnupoor/js_designpatterns) - Mais alguns design patterns explicados e exemplificados em Javascript.
+* [7 Regras para criar UIs Part I](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda) - Uma lista com 7 "regras" para seguir ao criar interfaces de usuário (parte I).
+* [7 Regras para criar UIs Part II](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96) - Uma lista com 7 "regras" para seguir ao criar interfaces de usuário (parte II).
+* [UI Patterns](http://ui-patterns.com/) - Design patterns na criação de interfaces de usuário.
+* [BEM](http://getbem.com/introduction/) - Padrão de nomenclatura de classes CSS para um projeto organizado.
+* [30 seletores CSS](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Uma lista com 30 formas de selecionar elementos com CSS.
+* [Padrões de Arquitetura](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - Padrões explicados: MVC, MVP, VIPER, MVVM, MVI, FLUX, REDUX.
+* [Javascript Design Patterns](https://levelup.gitconnected.com/basic-javascript-design-patterns-decorators-facades-and-proxies-2309eb485229?gi=780fb3bb5092) - Decorators, Facades e Proxies explicadas e exemplificadas em Javascript.
+* [Código Limpo com Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Conceitos de código limpo aplicados em Javascript.
+* [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549) - Um artigo com as melhores práticas para validação de formulários.
+* [SEO](https://rockcontent.com/blog/o-que-e-seo/) - Um guia sobre SEO.
 
 ## Bibliotecas
 
@@ -179,7 +200,6 @@
 * [Pingdom Website Speed Test](https://tools.pingdom.com/)
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
-* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
 * [REPL](https://repl.it/)
 
@@ -270,8 +290,6 @@
 * [Internet Is Hard](https://internetingishard.com/)
 * [Flukeout](https://flukeout.github.io/)
 * [GRID By Example](https://gridbyexample.com/learn/)
-* [UI Patterns](http://ui-patterns.com/)
-* [JS Patterns](https://github.com/nnupoor/js_designpatterns)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
 **[⬆ Voltar ao menu](#conteúdo)**
@@ -294,28 +312,16 @@
 
 ## Artigos
 
-* [HTML5 Cheatsheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
-* [Frontend Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
-* [Another Frontend Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-* [Conteúdo do Head](https://github.com/joshbuchea/HEAD)
-* [30 Useful CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-* [Organizando o HTML](https://css-tricks.com/how-to-section-your-html/)
+
+
 * [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 * [Media Queries](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
-* [7 Rules for Creating UI (pt.1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
-* [7 Rules for Creating UI (pt.2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 * [Code Geekz](https://codegeekz.com/)
-* [MV* Design Patterns](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
-* [BEM CSS](http://getbem.com/introduction/)
-* [BEM em 5 min.](https://medium.com/trainingcenter/bem-em-5min-f5c80fd23439)
-* [BEM](https://tableless.com.br/bem-um-novo-metodo-para-seu-css/)
-* [O que é SEO?](https://rockcontent.com/blog/o-que-e-seo/)
-* [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
