@@ -16,7 +16,7 @@
 | ------ | ------ | ------ |
 | 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
 | 🔨 **Desenvolvimento** | Ferramentas úteis para desenvolvimento | **[Ver](#desenvolvimento)** |
-| 🆒 **Dicas** | Coleção de utilidades | **[Ver](#dicas)** |
+| 🆒 **Dicas** | Coleções de dicas e utilidades | **[Ver](#dicas)** |
 | &nbsp; | &nbsp; | &nbsp; |
 | 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
 | 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |

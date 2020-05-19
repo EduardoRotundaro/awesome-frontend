@@ -33,3 +33,25 @@
 * https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-why-you-should-use-an-object-not-an-array-for-lists-bee4a1fbc8bd
 
 
+
+* https://blog.designa.com.br/padr%C3%B5es-de-arquitetura-de-software-voc%C3%AA-sabe-do-que-estamos-falando-4858967c4054
+* https://medium.com/joaorobertopb/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
+* https://medium.com/@caiovaccaro/arquitetura-front-end-testes-3d4e3f514486
+* https://stevesouders.com/
+* https://developers.google.com/speed
+* https://developers.google.com/web/tools/chrome-devtools
+* https://www.stevesouders.com/blog/2013/11/07/prebrowsing/
+* https://developers.google.com/speed/docs/insights/browser-reflow
+* https://developers.google.com/web/fundamentals/performance/resource-prioritization
+* https://medium.com/front-end-weekly/javascript-design-patterns-ed9d4c144c81
+* https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231
+* https://kevtiq.co/blog/scalable-front-end-architecture/
+* https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5
+* https://github.com/github/gitignore
+* https://github.com/public-apis/public-apis
+* https://github.com/EbookFoundation/free-programming-books
+* https://www.markdownguide.org/cheat-sheet/
+* https://sass-guidelin.es/pt/#arquitetura
+* https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4
+* https://tableless.com.br/
+* https://github.com/trekhleb/javascript-algorithms
