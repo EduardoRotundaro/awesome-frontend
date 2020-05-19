@@ -128,20 +128,20 @@
 
 #### Utilitários
 
-* [Lodash](https://lodash.com/docs/4.17.15) - biblioteca de utilidades em JS.
-* [Moment.js](https://momentjs.com/) - biblioteca de manipulação de datas me JS.
-* [Pug](https://pugjs.org/api/getting-started.html) - template engine.
+* [Analyze CSS](https://github.com/macbre/analyze-css) - analisar performance de arquivos CSS.
 * [Base](https://getbase.org/) - framework CSS responsivo.
 * [Bulma](https://bulma.io/) - framework CSS baseado em Flexbox.
+* [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
+* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
+* [Format.js](https://formatjs.io/) - biblioteca para formatações.
 * [History](https://github.com/browserstate/history.js) - biblioteca de histórico e estados.
-* [Analyze CSS](https://github.com/macbre/analyze-css) - analisar performance de arquivos CSS.
-* [Voca.js](https://vocajs.com/) - biblioteca para strings em JS.
+* [Is.js](http://is.js.org/) - biblioteca para validações.
+* [Lodash](https://lodash.com/docs/4.17.15) - biblioteca de utilidades em JS.
 * [Luxon](https://moment.github.io/luxon/) - biblioteca de manipulação de datas me JS.
 * [Math.js](https://mathjs.org/) - biblioteca de utilidades matemáticas.
-* [Is.js](http://is.js.org/) - biblioteca para validações.
-* [Format.js](https://formatjs.io/) - biblioteca para formatações.
-* [Dinero](https://sarahdayan.github.io/dinero.js/module-Dinero.html) - biblioteca para manipulações com dinheiro.
-* [Clipboard](https://github.com/zenorocha/clipboard.js) - biblioteca utilitária para "Copy to clipboard".
+* [Moment.js](https://momentjs.com/) - biblioteca de manipulação de datas me JS.
+* [Pug](https://pugjs.org/api/getting-started.html) - template engine.
+* [Voca.js](https://vocajs.com/) - biblioteca para strings em JS.
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
