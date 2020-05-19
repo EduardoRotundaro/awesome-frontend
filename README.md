@@ -107,10 +107,10 @@
 
 #### CSS
 
-* [Purge CSS](https://www.purgecss.com/) - remova códigos CSS não utilizados.
-* [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
-* [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
 * [960 Grid System](https://960.gs/) - sistema de grid com 12 ou 16 colunas.
+* [Pure CSS](https://purecss.io/start/) - pacote de módulos CSS leve e responsivo.
+* [Purge CSS](https://www.purgecss.com/) - remova códigos CSS não utilizados.
+* [Post CSS](https://postcss.org/) - criação e edição de estilos CSS com plugins.
 * [Tailwind](https://tailwindcss.com/) - framework CSS para criação rápida de estilos.
 
 **[⬆ Voltar ao menu](#conteúdo)**
@@ -118,11 +118,11 @@
 #### SASS
 
 * [Andy.scss](http://gillesbertaux.com/andy/) - coleção de mixins utilitários.
-* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins) - coleção de mixins utilitários.
+* [Bourbon](https://www.bourbon.io/) - coleção de ferramentas SASS.
 * [Breakpoint SASS](http://breakpoint-sass.com/) - coleção de Media Queries.
-* [Pleeease](http://pleeease.io/) - pré-processador de CSS.
 * [CSS Owl](https://cssowl.owl-stars.com/) - coleção de mixins utilitários.
-* [Bourbon](https://www.bourbon.io/) - - coleção de ferramentas SASS.
+* [Pleeease](http://pleeease.io/) - pré-processador de CSS.
+* [SASS CSS3 Mixins](https://github.com/matthieua/sass-css3-mixins) - coleção de mixins utilitários.
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
