@@ -74,15 +74,15 @@
 
 ## Desenvolvimento
 
-* [Gitmoji](https://gitmoji.carloscuesta.me/) - Uma forma visual de categorizar os commits de um projeto.
-* [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/) - Uma convenção simples para dar um significado legível às mensagens de commit.
-* [Oh Shit Git](https://ohshitgit.com/) - Uma lista com comandos GIT que podem salvar.
 * [4Devs](https://www.4devs.com.br/) - Ferramenta para desenvolvedores: geradores, validadores, funções...
-* [Free Formatter](https://www.freeformatter.com/) - Ferramenta para desenvolvedores: formatadores, validadores, minificadores de código, conversores...
 * [Can I Use?](https://caniuse.com/) - Informa se determinado recurso é suportado por browsers ou por determinadas versões.
-* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - Ferramenta para testar responsividade de aplicações.
+* [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/) - Uma convenção simples para dar um significado legível às mensagens de commit.
+* [Free Formatter](https://www.freeformatter.com/) - Ferramenta para desenvolvedores: formatadores, validadores, minificadores de código, conversores...
+* [Gitmoji](https://gitmoji.carloscuesta.me/) - Uma forma visual de categorizar os commits de um projeto.
+* [Oh Shit Git](https://ohshitgit.com/) - Uma lista com comandos GIT que podem salvar.
 * [Pingdom Website Speed Test](https://tools.pingdom.com/) - Uma ferramenta online para testes de performance em sites.
 * [REPL](https://repl.it/) - Uma IDE online, com suporte a mais de 50 linguagens.
+* [Viewport Resizer](http://lab.maltewassermann.com/viewport-resizer/) - Ferramenta para testar responsividade de aplicações.
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
