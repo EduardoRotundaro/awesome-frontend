@@ -215,8 +215,9 @@
 ## Listas
 
 * [Emojis](https://eduardorotundaro.github.io/emoji-list/)
-* [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [Emoji Pedia](https://emojipedia.org/)
+* [HTML Symbols](https://www.toptal.com/designers/htmlarrows/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
