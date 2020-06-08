@@ -179,12 +179,13 @@
 
 ## Cores
 
-* [HTML Color Codes](https://htmlcolorcodes.com/)
-* [UI Gradients](https://uigradients.com/#VerBlack)
+* [Adobe Colors](https://color.adobe.com/pt/create/color-wheel)
+* [Brand Colors](https://brandcolors.net/)
 * [Coolors](https://coolors.co/app)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Gradient Generator](https://www.ccbg.io/generator)
-* [Brand Colors](https://brandcolors.net/)
+* [HTML Color Codes](https://htmlcolorcodes.com/)
+* [UI Gradients](https://uigradients.com/#VerBlack)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
