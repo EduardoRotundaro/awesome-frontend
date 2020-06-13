@@ -99,6 +99,8 @@
 * [JS Tips](https://www.jstips.co/) - Coleção de dicas e utilidades Javascript.
 * [Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Um roteiro de estudo, focado em áreas de desenvolvimento web.
 
+**[⬆ Voltar ao menu](#conteúdo)**
+
 ---
 
 &nbsp;
@@ -151,14 +153,14 @@
 
 ## Gerador de CSS
 
-* [CSS3 Maker](https://www.css3maker.com/index.html)
-* [Grid Maker](https://grid.layoutit.com/)
-* [CSS Matic](https://www.cssmatic.com/)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [Enjoy CSS](https://enjoycss.com/)
-* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
-* [CSS Type Set](http://csstypeset.com/)
 * [Auto Prefixer](https://autoprefixer.github.io/)
+* [CSS Matic](https://www.cssmatic.com/)
+* [CSS Type Set](http://csstypeset.com/)
+* [CSS3 Maker](https://www.css3maker.com/index.html)
+* [Enjoy CSS](https://enjoycss.com/)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Grid Maker](https://grid.layoutit.com/)
+* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -168,8 +170,8 @@
 
 ## Fontes
 
-* [Google Fonts](https://fonts.google.com/)
 * [Dafont](https://www.dafont.com/mtheme.php)
+* [Google Fonts](https://fonts.google.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -195,17 +197,17 @@
 
 ## Ícones
 
-* [Font Awesome](https://fontawesome.com/icons?d=gallery)
-* [Octicons](https://octicons.github.com/)
 * [Feather](https://feathericons.com/)
-* [Material Design](https://material.io/resources/icons/?icon=account_circle&style=baseline)
-* [Google Material Icons](http://google.github.io/material-design-icons/)
-* [Icon Monster](https://iconmonstr.com/)
-* [The Noun Project](https://thenounproject.com/)
-* [FreePik](https://www.freepik.com/)
+* [Font Awesome](https://fontawesome.com/icons?d=gallery)
 * [Fontello](http://fontello.com/)
+* [FreePik](https://www.freepik.com/)
+* [Google Material Icons](http://google.github.io/material-design-icons/)
 * [Icons8](https://icons8.com/icons)
+* [Icon Monster](https://iconmonstr.com/)
+* [Material Design](https://material.io/resources/icons/?icon=account_circle&style=baseline)
+* [Octicons](https://octicons.github.com/)
 * [Simple Icons](https://simpleicons.org/)
+* [The Noun Project](https://thenounproject.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -228,15 +230,15 @@
 
 ## Animações CSS
 
-* [Infinite](http://tilomitra.github.io/infinite/)
-* [Vivify](http://vivify.mkcreative.cz/)
-* [Hover](http://ianlunn.github.io/Hover/)
-* [Tuesday](http://shakrmedia.github.io/tuesday/)
-* [Reboundgen](http://dwarcher.github.io/reboundgen/examples/)
-* [Motion](http://pavlyukpetr.com/awesome/#)
+* [Animate](http://cssanimate.com/)
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animista](https://animista.net/)
-* [Animate](http://cssanimate.com/)
+* [Hover](http://ianlunn.github.io/Hover/)
+* [Infinite](http://tilomitra.github.io/infinite/)
+* [Motion](http://pavlyukpetr.com/awesome/#)
+* [Reboundgen](http://dwarcher.github.io/reboundgen/examples/)
+* [Tuesday](http://shakrmedia.github.io/tuesday/)
+* [Vivify](http://vivify.mkcreative.cz/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -246,15 +248,15 @@
 
 ## Design
 
-* [Dribbble](https://dribbble.com/)
-* [Free Frontend](https://freefrontend.com/)
 * [Code My UI](https://codemyui.com/)
 * [Collect UI](http://collectui.com/)
+* [Dribbble](https://dribbble.com/)
+* [Free Frontend](https://freefrontend.com/)
+* [Httpster](https://httpster.net/)
 * [Inspiration UI](http://inspirationui.com/)
 * [Lapa Ninja](https://www.lapa.ninja/)
-* [Httpster](https://httpster.net/)
-* [Page Flows](https://pageflows.com/)
 * [One Page Love](https://onepagelove.com/inspiration)
+* [Page Flows](https://pageflows.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -264,14 +266,14 @@
 
 ## React
 
-* [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
-* [Material UI](https://material-ui.com/)
 * [Ant Design](https://github.com/ant-design/ant-design)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
-* [Semantic UI](https://react.semantic-ui.com/)
-* [Next.js](https://nextjs.org/)
 * [Blueprint](https://blueprintjs.com/docs/)
+* [Material Design](https://mdbootstrap.com/docs/react/components/demo/)
+* [Material UI](https://material-ui.com/)
+* [Next.js](https://nextjs.org/)
+* [Semantic UI](https://react.semantic-ui.com/)
 * [Styled Components](https://github.com/styled-components/styled-components)
 
 **[⬆ Voltar ao menu](#conteúdo)**
@@ -304,8 +306,8 @@
 ## Tutoriais
 
 * [Flex Box Froggy](https://flexboxfroggy.com/)
-* [Internet Is Hard](https://internetingishard.com/)
 * [Flukeout](https://flukeout.github.io/)
+* [Internet Is Hard](https://internetingishard.com/)
 * [GRID By Example](https://gridbyexample.com/learn/)
 * [React Patterns](https://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
 
@@ -317,8 +319,8 @@
 
 ## Style guides
 
-* [Javascript](https://github.com/airbnb/javascript)
 * [CSS & SASS](https://github.com/airbnb/css)
+* [Javascript](https://github.com/airbnb/javascript)
 * [React](https://github.com/airbnb/javascript/tree/master/react)
 
 **[⬆ Voltar ao menu](#conteúdo)**
@@ -331,13 +333,13 @@
 
 
 
-* [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
-* [Media Queries](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+* [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
 * [Code Geekz](https://codegeekz.com/)
 * [Frontend Development Roadmap](https://pbs.twimg.com/media/EKL1hGPXYAA3zt0?format=jpg&name=4096x4096)
+* [Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+* [Media Queries](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [SASS Structure](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [9 Flexbox Features](https://dev.to/melnik909/top-9-features-of-flexbox-that-you-may-don-t-know-1n10)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -347,9 +349,9 @@
 
 ## Sites de Artigos e tutoriais
 
+* [Code House](https://codyhouse.co/)
 * [CSS Author](https://cssauthor.com/)
 * [CSS Tricks](https://css-tricks.com/)
-* [Code House](https://codyhouse.co/)
 * [Egg Head](https://egghead.io/)
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 * [Site Point](https://www.sitepoint.com/blog/)
@@ -363,8 +365,8 @@
 
 ## Lorem Ipsum
 
-* [Mussum Ipsum](https://mussumipsum.com/)
 * [Lorem Ipsum Generator](https://loremipsum.io/generator/?n=5&t=p)
+* [Mussum Ipsum](https://mussumipsum.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -374,10 +376,10 @@
 
 ## Imagens
 
-* [Unsplash](https://unsplash.com/)
-* [Online Logo Maker](https://www.onlinelogomaker.com/logomaker/)
-* [Logo Makr](https://logomakr.com/)
 * [Lean Logo Maker](https://leanlogomaker.com/)
+* [Logo Makr](https://logomakr.com/)
+* [Online Logo Maker](https://www.onlinelogomaker.com/logomaker/)
+* [Unsplash](https://unsplash.com/)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -399,17 +401,17 @@
 ## Listas Awesome
 
 * [Awesome](https://github.com/sindresorhus/awesome)
+* [Design](https://github.com/gztchan/awesome-design)
 * [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [Frontend](https://github.com/grab/front-end-guide)
+* [MongoDB](https://github.com/ramnes/awesome-mongodb)
+* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 * [React](https://github.com/enaqx/awesome-react)
 * [React Tips](https://github.com/vasanthk/react-bits)
 * [React Components](https://github.com/brillout/awesome-react-components)
 * [React Native](https://github.com/jondot/awesome-react-native)
 * [Redux](https://github.com/markerikson/react-redux-links)
-* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-* [MongoDB](https://github.com/ramnes/awesome-mongodb)
-* [Frontend](https://github.com/grab/front-end-guide)
-* [Design](https://github.com/gztchan/awesome-design)
-* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -420,8 +422,8 @@
 ## Documentações
 
 * [CSS](https://www.w3schools.com/css/default.asp)
-* [SASS](https://sass-lang.com/documentation)
 * [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
+* [SASS](https://sass-lang.com/documentation)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
@@ -438,7 +440,7 @@
 **[⬆ Voltar ao menu](#conteúdo)**
 
 
-* [Learn Layout](http://learnlayout.com/)
-* [Svelte](https://svelte.dev/)
 * [30 Seconds Of Code](https://github.com/30-seconds/30-seconds-of-code)
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+* [Learn Layout](http://learnlayout.com/)
+* [Svelte](https://svelte.dev/)
