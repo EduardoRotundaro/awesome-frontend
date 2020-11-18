@@ -1,15 +1,15 @@
 ![Awesome Frontend](https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/cover.png?raw=true)
 
-Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend.
+<center>Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend.</center>
+
+&nbsp;
 
 > Esta lista reúne, por escolha e opinião dos contribuidores, os melhores conteúdos para desenvolvedores frontend. Você pode encontrar mais conteúdo nos principais repositórios de listas, também anexados [aqui](#listas-awesome).
 
 &nbsp;
-&nbsp;
-
----
 
 &nbsp;
+
 &nbsp;
 
 ## Conteúdo
