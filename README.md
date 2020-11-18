@@ -4,9 +4,9 @@
 
 &nbsp;
 
-&nbsp;
-
 > Esta lista reúne, por escolha e opinião dos contribuidores, os melhores conteúdos para desenvolvedores frontend. Você pode encontrar mais conteúdo nos principais repositórios de listas, também anexados [aqui](#listas-awesome).
+
+&nbsp;
 
 &nbsp;
 
@@ -14,11 +14,32 @@
 
 | Conteúdo | O que tem? | &nbsp; |
 | ------ | ------ | ------ |
-| 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
 | 👓 **Listas Awesome** | Os principais repositórios de listas | **[Ver](#listas-awesome)** |
+| 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
 
 &nbsp;
 &nbsp;
+&nbsp;
+
+---
+
+&nbsp;
+
+## Listas Awesome
+
+* [Awesome](https://github.com/sindresorhus/awesome) - A principal lista Awesome, reúne tudo em um repositório.
+* [Design](https://github.com/gztchan/awesome-design) - lista sobre UX/UI.
+* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - lista sobre padrões de software.
+* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - lista sobre recursos para design.
+* [Frontend](https://github.com/grab/front-end-guide) - principal lista sobre frontend.
+* [React](https://github.com/enaqx/awesome-react) - principal lista sobre a biblioteca React.
+* [React Tips](https://github.com/vasanthk/react-bits) - outra lista sobre React.
+* [React Components](https://github.com/brillout/awesome-react-components) - lista sobre pacotes para React.
+* [React Native](https://github.com/jondot/awesome-react-native) - lista sobre React native.
+* [Redux](https://github.com/markerikson/react-redux-links) - lista sobre Redux.
+
+**[⬆ Voltar ao menu](#conteúdo)**
+
 &nbsp;
 
 ---
@@ -48,29 +69,6 @@
 * [Testes](https://medium.com/@caiovaccaro/arquitetura-front-end-testes-3d4e3f514486) - Um artigo sobre testes em frontend.
 * [UI Patterns](http://ui-patterns.com/) - Design patterns na criação de interfaces de usuário.
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549) - Um artigo com as melhores práticas para validação de formulários.
-
-**[⬆ Voltar ao menu](#conteúdo)**
-
-&nbsp;
-
----
-
-&nbsp;
-
-## Listas Awesome
-
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [Design](https://github.com/gztchan/awesome-design)
-* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-* [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-* [Frontend](https://github.com/grab/front-end-guide)
-* [MongoDB](https://github.com/ramnes/awesome-mongodb)
-* [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-* [React](https://github.com/enaqx/awesome-react)
-* [React Tips](https://github.com/vasanthk/react-bits)
-* [React Components](https://github.com/brillout/awesome-react-components)
-* [React Native](https://github.com/jondot/awesome-react-native)
-* [Redux](https://github.com/markerikson/react-redux-links)
 
 **[⬆ Voltar ao menu](#conteúdo)**
 
