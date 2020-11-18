@@ -17,28 +17,27 @@
 | 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
 | 🔨 **Desenvolvimento** | Ferramentas úteis para desenvolvimento | **[Ver](#desenvolvimento)** |
 | 🆒 **Dicas** | Coleções de dicas e utilidades | **[Ver](#dicas)** |
-| &nbsp; | &nbsp; | &nbsp; |
-| 📂 **Bibliotecas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#bibliotecas)** |
-| 📑 **Style guides** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#style-guides)** |
-| 💄 **UI** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ui)** |
-| 👉🏻 **Gerador de CSS** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#gerador-de-css)** |
-| 🎨 **Cores** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#cores)** |
-| 🏃 **Animações CSS** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#animações-css)** |
-| 📝 **Markdown** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#markdown)** |
-| 📋 **Listas** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas)** |
-| 🅰️ **Fontes** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#fontes)** |
-| 👍🏻 **Ícones** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#ícones)** |
-| 🎴 **Imagens** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#imagens)** |
-| 🈵 **Lorem Ipsum** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#lorem-ipsum)** |
-| 💡 **Design** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#design)** |
-| 👓 **Listas Awesome** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#listas-awesome)** |
-| ❓ **Tutoriais** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#tutoriais)** |
-| 📰 **Artigos** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#artigos)** |
-| 💻 **Sites de Artigos e tutoriais** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#sites-de-artigos-e-tutoriais)** |
-| ⚛ **React.js** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#react)** |
-| 🔻 **Vue.js** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#vue)** |
-| ⬇️ **Extensões** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#extensões)** |
-| 📔 **Documentações** | Mussum Ipsum, cacilds vidis litro abertis. | **[Ver](#documentações)** |
+| 📂 **Bibliotecas** | 🚧...👨‍💻...🚧 | **[Ver](#bibliotecas)** |
+| 📑 **Style guides** | 🚧...👨‍💻...🚧 | **[Ver](#style-guides)** |
+| 💄 **UI** | 🚧...👨‍💻...🚧 | **[Ver](#ui)** |
+| 👉🏻 **Gerador de CSS** | 🚧...👨‍💻...🚧 | **[Ver](#gerador-de-css)** |
+| 🎨 **Cores** | 🚧...👨‍💻...🚧 | **[Ver](#cores)** |
+| 🏃 **Animações CSS** | 🚧...👨‍💻...🚧 | **[Ver](#animações-css)** |
+| 📝 **Markdown** | 🚧...👨‍💻...🚧 | **[Ver](#markdown)** |
+| 📋 **Listas** | 🚧...👨‍💻...🚧 | **[Ver](#listas)** |
+| 🅰️ **Fontes** | 🚧...👨‍💻...🚧 | **[Ver](#fontes)** |
+| 👍🏻 **Ícones** | 🚧...👨‍💻...🚧 | **[Ver](#ícones)** |
+| 🎴 **Imagens** | 🚧...👨‍💻...🚧 | **[Ver](#imagens)** |
+| 🈵 **Lorem Ipsum** | 🚧...👨‍💻...🚧 | **[Ver](#lorem-ipsum)** |
+| 💡 **Design** | 🚧...👨‍💻...🚧 | **[Ver](#design)** |
+| 👓 **Listas Awesome** | 🚧...👨‍💻...🚧 | **[Ver](#listas-awesome)** |
+| ❓ **Tutoriais** | 🚧...👨‍💻...🚧 | **[Ver](#tutoriais)** |
+| 📰 **Artigos** | 🚧...👨‍💻...🚧 | **[Ver](#artigos)** |
+| 💻 **Sites de Artigos e tutoriais** | 🚧...👨‍💻...🚧 | **[Ver](#sites-de-artigos-e-tutoriais)** |
+| ⚛ **React.js** | 🚧...👨‍💻...🚧 | **[Ver](#react)** |
+| 🔻 **Vue.js** | 🚧...👨‍💻...🚧 | **[Ver](#vue)** |
+| ⬇️ **Extensões** | 🚧...👨‍💻...🚧 | **[Ver](#extensões)** |
+| 📔 **Documentações** | 🚧...👨‍💻...🚧 | **[Ver](#documentações)** |
 
 ---
 
@@ -104,6 +103,20 @@
 **[⬆ Voltar ao menu](#conteúdo)**
 
 ---
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# 🚧 👨‍💻 🚧
 
 &nbsp;
 
