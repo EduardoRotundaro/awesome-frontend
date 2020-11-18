@@ -39,10 +39,12 @@
 | ⬇️ **Extensões** | 🚧...👨‍💻...🚧 | **[Ver](#extensões)** |
 | 📔 **Documentações** | 🚧...👨‍💻...🚧 | **[Ver](#documentações)** |
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---
 
-&nbsp;
-&nbsp;
 &nbsp;
 
 ## Conceitos
@@ -62,6 +64,7 @@
 * [Mobile First](https://medium.com/nossa-coletividad/por-que-%C3%A9-t%C3%A3o-f%C3%A1cil-errar-no-mobile-first-b51f8103e06a) - Um guia sobre o conceito "Mobile First".
 * [Organizando o HTML](https://css-tricks.com/how-to-section-your-html/) - Estruturando o HTML da forma correta.
 * [Padrões de Arquitetura](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - Padrões explicados: MVC, MVP, VIPER, MVVM, MVI, FLUX, REDUX.
+* [Padrões de Arquitetura II](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d) - Os mais importantes padrões de arquitetura.
 * [SEO](https://rockcontent.com/blog/o-que-e-seo/) - Um guia sobre SEO.
 * [SOLID](https://medium.com/joaorobertopb/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530) - Um guia completo sobre SOLID.
 * [Testes](https://medium.com/@caiovaccaro/arquitetura-front-end-testes-3d4e3f514486) - Um artigo sobre testes em frontend.
@@ -69,6 +72,8 @@
 * [Validação de formulários](https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549) - Um artigo com as melhores práticas para validação de formulários.
 
 **[⬆ Voltar ao menu](#conteúdo)**
+
+&nbsp;
 
 ---
 
