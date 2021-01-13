@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Awesome Frontend" src="https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/icon.png?raw=true" />
+  <img alt="Awesome Frontend" src="https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/icon.png?raw=true" />
 </p>
 
 <h1 align="center">
@@ -10,6 +10,7 @@
   <> Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend &#8814;>
 </p>
 
+&nbsp;
 
 &nbsp;
 
@@ -26,6 +27,8 @@
 | 👓 **Listas Awesome** | Os principais repositórios de listas | **[Ver](#listas-awesome)** |
 | 🔨 **Desenvolvimento** | Ferramentas úteis para desenvolvimento | **[Ver](#desenvolvimento)** |
 | 🤯 **Conceitos** | Artigos e links para aprender/lembrar conceitos importantes | **[Ver](#conceitos)** |
+| 🆒 **Dicas** | Coleções de dicas e utilidades | **[Ver](#dicas)** |
+| 👉🏻 **Gerador de CSS** | Ferramentas online para gerar CSS de forma visual | **[Ver](#gerador-de-css)** |
 
 &nbsp;
 &nbsp;
@@ -100,5 +103,42 @@
 * [REPL](https://repl.it/) - Uma IDE online, com suporte a mais de 50 linguagens.
 
 **[⬆ Voltar ao menu](#conteúdo)**
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Dicas
+
+* [30 Seconds of Code](https://www.30secondsofcode.org/) - Uma coleção de dicas e utilidades Javascript.
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 conceitos em Javascript que todo desenvolvedor "deve" conhecer.
+* [Apps Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias para criar aplicações para aprender um novo conceito, uma nova tecnologia ou aumentar o portifólio. &#9733;
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Coleção de dicas e utilidades CSS.
+* [JS Tips](https://www.jstips.co/) - Coleção de dicas e utilidades Javascript.
+* [Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Um roteiro de estudo, focado em áreas de desenvolvimento web.
+
+**[⬆ Voltar ao menu](#conteúdo)**
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## Gerador de CSS
+
+* [Auto Prefixer](https://autoprefixer.github.io/) - Ferramenta que adiciona códigos CSS específicos de browsers para maior compatibilidade. &#9733;
+* [CSS Type Set](http://csstypeset.com/) - Modifique textos de forma mais visual utilizando o CSS.
+* [CSS3 Maker](https://www.css3maker.com/index.html) - Uma forma visual para criar códigos CSS para sombras, bordas, gradientes...
+* [Enjoy CSS](https://enjoycss.com/) - Outra ferramenta online para criar visualmente códigos CSS para sombras, bordas, gradientes...
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Playground para visualizar e gerar grids com flexbox.
+* [Grid Maker](https://grid.layoutit.com/) - Outra ferramenta para visualizar e gerar grids.
+* [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - Coleção de trechos de código para criar designs responsivos.
+
+**[⬆ Voltar ao menu](#conteúdo)**
+
+&nbsp;
 
 ---
