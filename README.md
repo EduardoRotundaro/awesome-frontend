@@ -1,11 +1,17 @@
 <p align="center">
     <img alt="Awesome Frontend" src="https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/icon.png?raw=true" />
 </p>
+
 <h1 align="center">
   Awesome Frontend
 </h1>
 
-<> Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend &#8814;>
+&nbsp;
+
+<p align="center">
+  <> Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend &#8814;>
+</p>
+
 
 &nbsp;
 
