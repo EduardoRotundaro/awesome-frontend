@@ -6,8 +6,6 @@
   Awesome Frontend
 </h1>
 
-&nbsp;
-
 <p align="center">
   <> Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend &#8814;>
 </p>
