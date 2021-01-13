@@ -1,4 +1,9 @@
-![Awesome Frontend](https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/cover.png?raw=true)
+<p align="center">
+    <img alt="Awesome Frontend" src="https://github.com/EduardoRotundaro/awesome-frontend/blob/master/images/icon.png?raw=true" />
+</p>
+<h1 align="center">
+  Awesome Frontend
+</h1>
 
 <> Uma lista de links, documentações e artigos úteis para o desenvolvimento de aplicações frontend &#8814;>
 
