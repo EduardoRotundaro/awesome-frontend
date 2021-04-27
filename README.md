@@ -138,7 +138,3 @@
 * [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - Coleção de trechos de código para criar designs responsivos.
 
 **[⬆ Voltar ao menu](#conteúdo)**
-
-&nbsp;
-
----
